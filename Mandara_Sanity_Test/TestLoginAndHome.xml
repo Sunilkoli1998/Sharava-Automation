@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MandaraLoginHome">
+
+    <!--Below two parameters are used for launch browser and open the url -->>
+
+    <parameter name="browserType" value="chrome"/>
+    <parameter name="url" value="https://qa.sigtuple.com/login"/>
+    <parameter name="product" value="loginhome"/>
+    <listeners>
+        <listener class-name="com.utilities.ScreenshotListeners"/>
+    </listeners>
+
+    <test name="Mandara_Test">
+        <classes>
+
+
+            <class name="com.Shrava.LoginTest"/>
+            <class name="com.Shrava.MandaraHomeTest"/>
+            <class name="com.Shrava.ListReportTest"/>
+               <!-- <class name="com.Common.ListReportTest"/>
+
+                <class name="com.Common.ReportPageTest"/>
+            <class name="com.Common.ShonitPlateleteReportTest"/>-->
+
+
+            <!--     
+<class name="com.Common.ShonitRBCReportTest"/>
+  <class name="com.Common.ShonitWBCReportTest"/>
+  <class name="com.Common.SearchFilterTest"/>
+
+             <class name="com.Common.ShonitWBCReportTest"/>
+                   <class name="com.Common.MicroscopicViewTest"/>
+              <class name="com.Common.QualityAssessmentTest"/>-->
+         <!--  <class name="com.Common.SampleApproveTest"/>
+            <class name="com.Common.SampleRejectTest"/>-->
+            <!--  <class name="com.Common.SystemReleaseTest"/>
+
+             <class name ="com.Common.AdminPortalTest"/>-->
+
+
+        </classes>
+
+
+    </test>
+</suite>

@@ -1,0 +1,1528 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Shonit" class="navigator-link">
+              <span class="suite-name border-passed">Shonit</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Shonit" class="navigator-link ">
+                    <span>TestShonit.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Shonit" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Shonit" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Shonit" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Shonit" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Shonit" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Shonit" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">50 methods,   50 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Shonit" class="hide-methods passed suite-Shonit"> (hide)</a> <!-- hide-methods passed suite-Shonit -->
+                      <a href="#" panel-name="suite-Shonit" class="show-methods passed suite-Shonit"> (show)</a> <!-- show-methods passed suite-Shonit -->
+                    </span>
+                    <div class="method-list-content passed suite-Shonit">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="VerifyClickOnNotificationIcon">VerifyClickOnNotificationIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="availabilityOfShravaCard">availabilityOfShravaCard</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="checkMadaraHomePage">checkMadaraHomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="checkSigtupleIcon">checkSigtupleIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="checkpaginationchevronicons">checkpaginationchevronicons</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="checkpaginationeditbox">checkpaginationeditbox</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="checkpaginationposition">checkpaginationposition</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="checkusericon">checkusericon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="clickOnForgotPasswordButton">clickOnForgotPasswordButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="clickonBackToLogin">clickonBackToLogin</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="clickonListReportTest(Shrava)">clickonListReportTest(Shrava)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="closeproductVersionCard">closeproductVersionCard</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="enabilityOfLoginButton">enabilityOfLoginButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="enabilityOfReserPasswordButton">enabilityOfReserPasswordButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="numberOfProductsForUser">numberOfProductsForUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="termsNCondTestOnShonitReportPage">termsNCondTestOnShonitReportPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyAlertforInvalideEmail">verifyAlertforInvalideEmail</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyAlertforValideEmail">verifyAlertforValideEmail</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyForgotPasswordPageLoaded">verifyForgotPasswordPageLoaded</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifyListReportpage">verifyListReportpage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyMandaraAppLoad">verifyMandaraAppLoad</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifyNotpadIcon">verifyNotpadIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="verifyOptionFromUserIcon">verifyOptionFromUserIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifyOptionFromUserIconOnShonitReportPage">verifyOptionFromUserIconOnShonitReportPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyPasswordAlerttest">verifyPasswordAlerttest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifySearchEnterText(Shrava)">verifySearchEnterText(Shrava)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.MandaraHomeTest" class="method navigator-link" hash-for-method="verifyShonitCarddetails">verifyShonitCarddetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifySigTupleTittle(https://qa.sigtuple.com/login)">verifySigTupleTittle(https://qa.sigtuple.com/login)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyUserNameAlerttest">verifyUserNameAlerttest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="verifyValidLogin(sunil_koli, Automationengineer@123)">verifyValidLogin(sunil_koli, Automationengineer@123)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifyfilterIcon">verifyfilterIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifymodulname(Shrava)">verifymodulname(Shrava)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifyrefreshicon">verifyrefreshicon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="verifytableheader(Shrava)">verifytableheader(Shrava)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityMandaraHomePage">visibilityMandaraHomePage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfBackToLoginButton">visibilityOfBackToLoginButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfEmailIDField">visibilityOfEmailIDField</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfForgotPasswordButton">visibilityOfForgotPasswordButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="visibilityOfHelpIcon">visibilityOfHelpIcon</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfLoginButton">visibilityOfLoginButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfLoginContainer">visibilityOfLoginContainer</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfLoginContainer1">visibilityOfLoginContainer1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfPassNameField">visibilityOfPassNameField</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="visibilityOfPlateformVersion">visibilityOfPlateformVersion</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="visibilityOfProductName">visibilityOfProductName</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfReserPasswordButton">visibilityOfReserPasswordButton</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfSigtupleLogo">visibilityOfSigtupleLogo</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="visibilityOfSoftwareVersion">visibilityOfSoftwareVersion</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.LoginTest" class="method navigator-link" hash-for-method="visibilityOfUserNameField">visibilityOfUserNameField</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Shonit" title="com.Shrava.ListReportTest" class="method navigator-link" hash-for-method="visibilityOfVersionCard">visibilityOfVersionCard</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Shonit -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Shonit" class="panel Shonit">
+          <div class="suite-Shonit-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.Shrava.LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="clickOnForgotPasswordButton">
+                  </a> <!-- clickOnForgotPasswordButton -->
+                  <span class="method-name">clickOnForgotPasswordButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="clickonBackToLogin">
+                  </a> <!-- clickonBackToLogin -->
+                  <span class="method-name">clickonBackToLogin</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="enabilityOfLoginButton">
+                  </a> <!-- enabilityOfLoginButton -->
+                  <span class="method-name">enabilityOfLoginButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="enabilityOfReserPasswordButton">
+                  </a> <!-- enabilityOfReserPasswordButton -->
+                  <span class="method-name">enabilityOfReserPasswordButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyAlertforInvalideEmail">
+                  </a> <!-- verifyAlertforInvalideEmail -->
+                  <span class="method-name">verifyAlertforInvalideEmail</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyAlertforValideEmail">
+                  </a> <!-- verifyAlertforValideEmail -->
+                  <span class="method-name">verifyAlertforValideEmail</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyForgotPasswordPageLoaded">
+                  </a> <!-- verifyForgotPasswordPageLoaded -->
+                  <span class="method-name">verifyForgotPasswordPageLoaded</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyMandaraAppLoad">
+                  </a> <!-- verifyMandaraAppLoad -->
+                  <span class="method-name">verifyMandaraAppLoad</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPasswordAlerttest">
+                  </a> <!-- verifyPasswordAlerttest -->
+                  <span class="method-name">verifyPasswordAlerttest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySigTupleTittle(https://qa.sigtuple.com/login)">
+                  </a> <!-- verifySigTupleTittle(https://qa.sigtuple.com/login) -->
+                  <span class="method-name">verifySigTupleTittle</span>
+                  <span class="parameters">(https://qa.sigtuple.com/login)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserNameAlerttest">
+                  </a> <!-- verifyUserNameAlerttest -->
+                  <span class="method-name">verifyUserNameAlerttest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyValidLogin(sunil_koli, Automationengineer@123)">
+                  </a> <!-- verifyValidLogin(sunil_koli, Automationengineer@123) -->
+                  <span class="method-name">verifyValidLogin</span>
+                  <span class="parameters">(sunil_koli, Automationengineer@123)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityMandaraHomePage">
+                  </a> <!-- visibilityMandaraHomePage -->
+                  <span class="method-name">visibilityMandaraHomePage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfBackToLoginButton">
+                  </a> <!-- visibilityOfBackToLoginButton -->
+                  <span class="method-name">visibilityOfBackToLoginButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfEmailIDField">
+                  </a> <!-- visibilityOfEmailIDField -->
+                  <span class="method-name">visibilityOfEmailIDField</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfForgotPasswordButton">
+                  </a> <!-- visibilityOfForgotPasswordButton -->
+                  <span class="method-name">visibilityOfForgotPasswordButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfLoginButton">
+                  </a> <!-- visibilityOfLoginButton -->
+                  <span class="method-name">visibilityOfLoginButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfLoginContainer">
+                  </a> <!-- visibilityOfLoginContainer -->
+                  <span class="method-name">visibilityOfLoginContainer</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfLoginContainer1">
+                  </a> <!-- visibilityOfLoginContainer1 -->
+                  <span class="method-name">visibilityOfLoginContainer1</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfPassNameField">
+                  </a> <!-- visibilityOfPassNameField -->
+                  <span class="method-name">visibilityOfPassNameField</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfReserPasswordButton">
+                  </a> <!-- visibilityOfReserPasswordButton -->
+                  <span class="method-name">visibilityOfReserPasswordButton</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfSigtupleLogo">
+                  </a> <!-- visibilityOfSigtupleLogo -->
+                  <span class="method-name">visibilityOfSigtupleLogo</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfUserNameField">
+                  </a> <!-- visibilityOfUserNameField -->
+                  <span class="method-name">visibilityOfUserNameField</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Shonit-class-passed -->
+          <div class="suite-Shonit-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.Shrava.ListReportTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="VerifyClickOnNotificationIcon">
+                  </a> <!-- VerifyClickOnNotificationIcon -->
+                  <span class="method-name">VerifyClickOnNotificationIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkpaginationchevronicons">
+                  </a> <!-- checkpaginationchevronicons -->
+                  <span class="method-name">checkpaginationchevronicons</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkpaginationeditbox">
+                  </a> <!-- checkpaginationeditbox -->
+                  <span class="method-name">checkpaginationeditbox</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkpaginationposition">
+                  </a> <!-- checkpaginationposition -->
+                  <span class="method-name">checkpaginationposition</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="clickonListReportTest(Shrava)">
+                  </a> <!-- clickonListReportTest(Shrava) -->
+                  <span class="method-name">clickonListReportTest</span>
+                  <span class="parameters">(Shrava)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="closeproductVersionCard">
+                  </a> <!-- closeproductVersionCard -->
+                  <span class="method-name">closeproductVersionCard</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="termsNCondTestOnShonitReportPage">
+                  </a> <!-- termsNCondTestOnShonitReportPage -->
+                  <span class="method-name">termsNCondTestOnShonitReportPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyListReportpage">
+                  </a> <!-- verifyListReportpage -->
+                  <span class="method-name">verifyListReportpage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyNotpadIcon">
+                  </a> <!-- verifyNotpadIcon -->
+                  <span class="method-name">verifyNotpadIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyOptionFromUserIconOnShonitReportPage">
+                  </a> <!-- verifyOptionFromUserIconOnShonitReportPage -->
+                  <span class="method-name">verifyOptionFromUserIconOnShonitReportPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySearchEnterText(Shrava)">
+                  </a> <!-- verifySearchEnterText(Shrava) -->
+                  <span class="method-name">verifySearchEnterText</span>
+                  <span class="parameters">(Shrava)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyfilterIcon">
+                  </a> <!-- verifyfilterIcon -->
+                  <span class="method-name">verifyfilterIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifymodulname(Shrava)">
+                  </a> <!-- verifymodulname(Shrava) -->
+                  <span class="method-name">verifymodulname</span>
+                  <span class="parameters">(Shrava)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyrefreshicon">
+                  </a> <!-- verifyrefreshicon -->
+                  <span class="method-name">verifyrefreshicon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifytableheader(Shrava)">
+                  </a> <!-- verifytableheader(Shrava) -->
+                  <span class="method-name">verifytableheader</span>
+                  <span class="parameters">(Shrava)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfHelpIcon">
+                  </a> <!-- visibilityOfHelpIcon -->
+                  <span class="method-name">visibilityOfHelpIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfPlateformVersion">
+                  </a> <!-- visibilityOfPlateformVersion -->
+                  <span class="method-name">visibilityOfPlateformVersion</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfProductName">
+                  </a> <!-- visibilityOfProductName -->
+                  <span class="method-name">visibilityOfProductName</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfSoftwareVersion">
+                  </a> <!-- visibilityOfSoftwareVersion -->
+                  <span class="method-name">visibilityOfSoftwareVersion</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="visibilityOfVersionCard">
+                  </a> <!-- visibilityOfVersionCard -->
+                  <span class="method-name">visibilityOfVersionCard</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Shonit-class-passed -->
+          <div class="suite-Shonit-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.Shrava.MandaraHomeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="availabilityOfShravaCard">
+                  </a> <!-- availabilityOfShravaCard -->
+                  <span class="method-name">availabilityOfShravaCard</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkMadaraHomePage">
+                  </a> <!-- checkMadaraHomePage -->
+                  <span class="method-name">checkMadaraHomePage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkSigtupleIcon">
+                  </a> <!-- checkSigtupleIcon -->
+                  <span class="method-name">checkSigtupleIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="checkusericon">
+                  </a> <!-- checkusericon -->
+                  <span class="method-name">checkusericon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="numberOfProductsForUser">
+                  </a> <!-- numberOfProductsForUser -->
+                  <span class="method-name">numberOfProductsForUser</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyOptionFromUserIcon">
+                  </a> <!-- verifyOptionFromUserIcon -->
+                  <span class="method-name">verifyOptionFromUserIcon</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyShonitCarddetails">
+                  </a> <!-- verifyShonitCarddetails -->
+                  <span class="method-name">verifyShonitCarddetails</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Shonit-class-passed -->
+        </div> <!-- panel Shonit -->
+        <div panel-name="test-xml-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/TestShonit.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Shonit&quot; verbose=&quot;0&quot;&gt;
+  &lt;parameter name=&quot;product&quot; value=&quot;Shrava&quot;/&gt;
+  &lt;parameter name=&quot;url&quot; value=&quot;https://qa.sigtuple.com/login&quot;/&gt;
+  &lt;parameter name=&quot;browserType&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.utilities.ScreenshotListeners&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;Mandara_Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.Shrava.LoginTest&quot;/&gt;
+      &lt;class name=&quot;com.Shrava.MandaraHomeTest&quot;/&gt;
+      &lt;class name=&quot;com.Shrava.ListReportTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Mandara_Test --&gt;
+&lt;/suite&gt; &lt;!-- Shonit --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Shonit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Mandara_Test (3 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Shonit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Shonit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Shonit');
+function tableData_Shonit() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(50);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'verifySigTupleTittle')
+data.setCell(0, 2, 'com.Shrava.LoginTest')
+data.setCell(0, 3, 8875);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyOptionFromUserIconOnShonitReportPage')
+data.setCell(1, 2, 'com.Shrava.ListReportTest')
+data.setCell(1, 3, 5786);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyAlertforValideEmail')
+data.setCell(2, 2, 'com.Shrava.LoginTest')
+data.setCell(2, 3, 5705);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'verifyOptionFromUserIcon')
+data.setCell(3, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(3, 3, 5354);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'verifySearchEnterText')
+data.setCell(4, 2, 'com.Shrava.ListReportTest')
+data.setCell(4, 3, 4822);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'visibilityOfProductName')
+data.setCell(5, 2, 'com.Shrava.ListReportTest')
+data.setCell(5, 3, 2591);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'visibilityMandaraHomePage')
+data.setCell(6, 2, 'com.Shrava.LoginTest')
+data.setCell(6, 3, 1242);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'verifyAlertforInvalideEmail')
+data.setCell(7, 2, 'com.Shrava.LoginTest')
+data.setCell(7, 3, 877);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'termsNCondTestOnShonitReportPage')
+data.setCell(8, 2, 'com.Shrava.ListReportTest')
+data.setCell(8, 3, 783);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'verifyPasswordAlerttest')
+data.setCell(9, 2, 'com.Shrava.LoginTest')
+data.setCell(9, 3, 748);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'clickonBackToLogin')
+data.setCell(10, 2, 'com.Shrava.LoginTest')
+data.setCell(10, 3, 730);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'verifyUserNameAlerttest')
+data.setCell(11, 2, 'com.Shrava.LoginTest')
+data.setCell(11, 3, 687);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'verifyValidLogin')
+data.setCell(12, 2, 'com.Shrava.LoginTest')
+data.setCell(12, 3, 385);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'clickonListReportTest')
+data.setCell(13, 2, 'com.Shrava.ListReportTest')
+data.setCell(13, 3, 319);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'checkpaginationeditbox')
+data.setCell(14, 2, 'com.Shrava.ListReportTest')
+data.setCell(14, 3, 310);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'visibilityOfSoftwareVersion')
+data.setCell(15, 2, 'com.Shrava.ListReportTest')
+data.setCell(15, 3, 263);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'verifyShonitCarddetails')
+data.setCell(16, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(16, 3, 195);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'verifytableheader')
+data.setCell(17, 2, 'com.Shrava.ListReportTest')
+data.setCell(17, 3, 172);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'VerifyClickOnNotificationIcon')
+data.setCell(18, 2, 'com.Shrava.ListReportTest')
+data.setCell(18, 3, 136);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'closeproductVersionCard')
+data.setCell(19, 2, 'com.Shrava.ListReportTest')
+data.setCell(19, 3, 110);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'clickOnForgotPasswordButton')
+data.setCell(20, 2, 'com.Shrava.LoginTest')
+data.setCell(20, 3, 81);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'visibilityOfVersionCard')
+data.setCell(21, 2, 'com.Shrava.ListReportTest')
+data.setCell(21, 3, 60);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'visibilityOfLoginButton')
+data.setCell(22, 2, 'com.Shrava.LoginTest')
+data.setCell(22, 3, 53);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'verifyListReportpage')
+data.setCell(23, 2, 'com.Shrava.ListReportTest')
+data.setCell(23, 3, 49);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'enabilityOfReserPasswordButton')
+data.setCell(24, 2, 'com.Shrava.LoginTest')
+data.setCell(24, 3, 49);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'visibilityOfForgotPasswordButton')
+data.setCell(25, 2, 'com.Shrava.LoginTest')
+data.setCell(25, 3, 43);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'checkpaginationposition')
+data.setCell(26, 2, 'com.Shrava.ListReportTest')
+data.setCell(26, 3, 43);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'visibilityOfLoginContainer1')
+data.setCell(27, 2, 'com.Shrava.LoginTest')
+data.setCell(27, 3, 42);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'checkpaginationchevronicons')
+data.setCell(28, 2, 'com.Shrava.ListReportTest')
+data.setCell(28, 3, 38);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'visibilityOfBackToLoginButton')
+data.setCell(29, 2, 'com.Shrava.LoginTest')
+data.setCell(29, 3, 36);
+data.setCell(30, 0, 30)
+data.setCell(30, 1, 'visibilityOfPassNameField')
+data.setCell(30, 2, 'com.Shrava.LoginTest')
+data.setCell(30, 3, 36);
+data.setCell(31, 0, 31)
+data.setCell(31, 1, 'verifyForgotPasswordPageLoaded')
+data.setCell(31, 2, 'com.Shrava.LoginTest')
+data.setCell(31, 3, 35);
+data.setCell(32, 0, 32)
+data.setCell(32, 1, 'visibilityOfHelpIcon')
+data.setCell(32, 2, 'com.Shrava.ListReportTest')
+data.setCell(32, 3, 34);
+data.setCell(33, 0, 33)
+data.setCell(33, 1, 'visibilityOfSigtupleLogo')
+data.setCell(33, 2, 'com.Shrava.LoginTest')
+data.setCell(33, 3, 33);
+data.setCell(34, 0, 34)
+data.setCell(34, 1, 'verifymodulname')
+data.setCell(34, 2, 'com.Shrava.ListReportTest')
+data.setCell(34, 3, 33);
+data.setCell(35, 0, 35)
+data.setCell(35, 1, 'visibilityOfUserNameField')
+data.setCell(35, 2, 'com.Shrava.LoginTest')
+data.setCell(35, 3, 32);
+data.setCell(36, 0, 36)
+data.setCell(36, 1, 'checkSigtupleIcon')
+data.setCell(36, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(36, 3, 31);
+data.setCell(37, 0, 37)
+data.setCell(37, 1, 'checkusericon')
+data.setCell(37, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(37, 3, 31);
+data.setCell(38, 0, 38)
+data.setCell(38, 1, 'checkMadaraHomePage')
+data.setCell(38, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(38, 3, 30);
+data.setCell(39, 0, 39)
+data.setCell(39, 1, 'visibilityOfLoginContainer')
+data.setCell(39, 2, 'com.Shrava.LoginTest')
+data.setCell(39, 3, 30);
+data.setCell(40, 0, 40)
+data.setCell(40, 1, 'availabilityOfShravaCard')
+data.setCell(40, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(40, 3, 30);
+data.setCell(41, 0, 41)
+data.setCell(41, 1, 'visibilityOfPlateformVersion')
+data.setCell(41, 2, 'com.Shrava.ListReportTest')
+data.setCell(41, 3, 30);
+data.setCell(42, 0, 42)
+data.setCell(42, 1, 'enabilityOfLoginButton')
+data.setCell(42, 2, 'com.Shrava.LoginTest')
+data.setCell(42, 3, 30);
+data.setCell(43, 0, 43)
+data.setCell(43, 1, 'visibilityOfReserPasswordButton')
+data.setCell(43, 2, 'com.Shrava.LoginTest')
+data.setCell(43, 3, 29);
+data.setCell(44, 0, 44)
+data.setCell(44, 1, 'numberOfProductsForUser')
+data.setCell(44, 2, 'com.Shrava.MandaraHomeTest')
+data.setCell(44, 3, 28);
+data.setCell(45, 0, 45)
+data.setCell(45, 1, 'verifyfilterIcon')
+data.setCell(45, 2, 'com.Shrava.ListReportTest')
+data.setCell(45, 3, 27);
+data.setCell(46, 0, 46)
+data.setCell(46, 1, 'verifyMandaraAppLoad')
+data.setCell(46, 2, 'com.Shrava.LoginTest')
+data.setCell(46, 3, 26);
+data.setCell(47, 0, 47)
+data.setCell(47, 1, 'visibilityOfEmailIDField')
+data.setCell(47, 2, 'com.Shrava.LoginTest')
+data.setCell(47, 3, 26);
+data.setCell(48, 0, 48)
+data.setCell(48, 1, 'verifyNotpadIcon')
+data.setCell(48, 2, 'com.Shrava.ListReportTest')
+data.setCell(48, 3, 24);
+data.setCell(49, 0, 49)
+data.setCell(49, 1, 'verifyrefreshicon')
+data.setCell(49, 2, 'com.Shrava.ListReportTest')
+data.setCell(49, 3, 23);
+window.suiteTableData['Shonit']= { tableData: data, tableDiv: 'times-div-Shonit'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 41 seconds</span>
+              <div id="times-div-Shonit">
+              </div> <!-- times-div-Shonit -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Shonit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">17 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.Shrava.LoginTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">verifyEmailFieldAlertTest</span>
+                <br/>
+                <span class="ignored-method-name">verifyAlertforNotAnEmailid</span>
+                <br/>
+                <span class="ignored-method-name">verifyCopyrightOnLoginPage</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.Shrava.ListReportTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">verifyAddAssignee</span>
+                <br/>
+                <span class="ignored-method-name">initializeTestBaseSetup</span>
+                <br/>
+                <span class="ignored-method-name">verifysearchField</span>
+                <br/>
+                <span class="ignored-method-name">tearDown</span>
+                <br/>
+                <span class="ignored-method-name">verifySearchdata</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.Shrava.MandaraHomeTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">getSideProductName</span>
+                <br/>
+                <span class="ignored-method-name">initializeTestBaseSetup</span>
+                <br/>
+                <span class="ignored-method-name">checkSideMenu</span>
+                <br/>
+                <span class="ignored-method-name">verifyShonitReportCount</span>
+                <br/>
+                <span class="ignored-method-name">copyrightTest</span>
+                <br/>
+                <span class="ignored-method-name">privacyPolicy</span>
+                <br/>
+                <span class="ignored-method-name">tearDown</span>
+                <br/>
+                <span class="ignored-method-name">verifyShonitFromSideMenu</span>
+                <br/>
+                <span class="ignored-method-name">termsNCondTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Shonit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">initializeTestBaseSetup(chrome, https://qa.sigtuple.com/login, Shrava)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.MandaraHomeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">4773 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.ListReportTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">4799 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">4824 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="test-method">
+                <span class="method-name">verifySigTupleTittle(https://qa.sigtuple.com/login)</span>
+                <span class="method-start">4838 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifySigTupleTittle status=SUCCESS method=LoginTest.verifySigTupleTittle(java.lang...)</span>
+                <span class="method-start">13715 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyMandaraAppLoad</span>
+                <span class="method-start">13726 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyMandaraAppLoad status=SUCCESS method=LoginTest.verifyMandaraAppLoad()[pri:0, ...)</span>
+                <span class="method-start">13753 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfSigtupleLogo</span>
+                <span class="method-start">13753 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfSigtupleLogo status=SUCCESS method=LoginTest.visibilityOfSigtupleLogo()...)</span>
+                <span class="method-start">13786 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfLoginContainer</span>
+                <span class="method-start">13786 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfLoginContainer status=SUCCESS method=LoginTest.visibilityOfLoginContain...)</span>
+                <span class="method-start">13816 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfUserNameField</span>
+                <span class="method-start">13817 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfUserNameField status=SUCCESS method=LoginTest.visibilityOfUserNameField...)</span>
+                <span class="method-start">13849 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfPassNameField</span>
+                <span class="method-start">13849 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfPassNameField status=SUCCESS method=LoginTest.visibilityOfPassNameField...)</span>
+                <span class="method-start">13885 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfLoginButton</span>
+                <span class="method-start">13886 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfLoginButton status=SUCCESS method=LoginTest.visibilityOfLoginButton()[p...)</span>
+                <span class="method-start">13939 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">enabilityOfLoginButton</span>
+                <span class="method-start">13940 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=enabilityOfLoginButton status=SUCCESS method=LoginTest.enabilityOfLoginButton()[pri...)</span>
+                <span class="method-start">13970 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyUserNameAlerttest</span>
+                <span class="method-start">13971 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyUserNameAlerttest status=SUCCESS method=LoginTest.verifyUserNameAlerttest()[p...)</span>
+                <span class="method-start">14659 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyPasswordAlerttest</span>
+                <span class="method-start">14659 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyPasswordAlerttest status=SUCCESS method=LoginTest.verifyPasswordAlerttest()[p...)</span>
+                <span class="method-start">15407 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfForgotPasswordButton</span>
+                <span class="method-start">15407 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfForgotPasswordButton status=SUCCESS method=LoginTest.visibilityOfForgot...)</span>
+                <span class="method-start">15451 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">clickOnForgotPasswordButton</span>
+                <span class="method-start">15453 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=clickOnForgotPasswordButton status=SUCCESS method=LoginTest.clickOnForgotPasswordBu...)</span>
+                <span class="method-start">15535 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyForgotPasswordPageLoaded</span>
+                <span class="method-start">15536 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyForgotPasswordPageLoaded status=SUCCESS method=LoginTest.verifyForgotPassword...)</span>
+                <span class="method-start">15571 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfEmailIDField</span>
+                <span class="method-start">15572 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfEmailIDField status=SUCCESS method=LoginTest.visibilityOfEmailIDField()...)</span>
+                <span class="method-start">15598 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfBackToLoginButton</span>
+                <span class="method-start">15599 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfBackToLoginButton status=SUCCESS method=LoginTest.visibilityOfBackToLog...)</span>
+                <span class="method-start">15636 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfReserPasswordButton</span>
+                <span class="method-start">15636 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">enabilityOfReserPasswordButton</span>
+                <span class="method-start">15665 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfReserPasswordButton status=SUCCESS method=LoginTest.visibilityOfReserPa...)</span>
+                <span class="method-start">15665 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=enabilityOfReserPasswordButton status=SUCCESS method=LoginTest.enabilityOfReserPass...)</span>
+                <span class="method-start">15715 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyAlertforInvalideEmail</span>
+                <span class="method-start">15715 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyAlertforInvalideEmail status=SUCCESS method=LoginTest.verifyAlertforInvalideE...)</span>
+                <span class="method-start">16593 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyAlertforValideEmail</span>
+                <span class="method-start">16593 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">clickonBackToLogin</span>
+                <span class="method-start">22298 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyAlertforValideEmail status=SUCCESS method=LoginTest.verifyAlertforValideEmail...)</span>
+                <span class="method-start">22298 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=clickonBackToLogin status=SUCCESS method=LoginTest.clickonBackToLogin()[pri:0, inst...)</span>
+                <span class="method-start">23028 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfLoginContainer1</span>
+                <span class="method-start">23029 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfLoginContainer1 status=SUCCESS method=LoginTest.visibilityOfLoginContai...)</span>
+                <span class="method-start">23072 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyValidLogin(sunil_koli, Automationengineer@123)</span>
+                <span class="method-start">23074 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyValidLogin status=SUCCESS method=LoginTest.verifyValidLogin(java.lang.String,...)</span>
+                <span class="method-start">23459 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityMandaraHomePage</span>
+                <span class="method-start">23459 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityMandaraHomePage status=SUCCESS method=LoginTest.visibilityMandaraHomePage...)</span>
+                <span class="method-start">24701 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.MandaraHomeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">checkMadaraHomePage</span>
+                <span class="method-start">24702 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkMadaraHomePage status=SUCCESS method=MandaraHomeTest.checkMadaraHomePage()[pri...)</span>
+                <span class="method-start">24732 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyShonitCarddetails</span>
+                <span class="method-start">24732 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyShonitCarddetails status=SUCCESS method=MandaraHomeTest.verifyShonitCarddetai...)</span>
+                <span class="method-start">24927 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">checkSigtupleIcon</span>
+                <span class="method-start">24928 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkusericon</span>
+                <span class="method-start">24959 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkSigtupleIcon status=SUCCESS method=MandaraHomeTest.checkSigtupleIcon()[pri:0, ...)</span>
+                <span class="method-start">24959 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkusericon status=SUCCESS method=MandaraHomeTest.checkusericon()[pri:0, instance...)</span>
+                <span class="method-start">24991 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">numberOfProductsForUser</span>
+                <span class="method-start">24991 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">availabilityOfShravaCard</span>
+                <span class="method-start">25019 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=numberOfProductsForUser status=SUCCESS method=MandaraHomeTest.numberOfProductsForUs...)</span>
+                <span class="method-start">25019 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=availabilityOfShravaCard status=SUCCESS method=MandaraHomeTest.availabilityOfShrava...)</span>
+                <span class="method-start">25049 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyOptionFromUserIcon</span>
+                <span class="method-start">25050 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyOptionFromUserIcon status=SUCCESS method=MandaraHomeTest.verifyOptionFromUser...)</span>
+                <span class="method-start">30405 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.ListReportTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">clickonListReportTest(Shrava)</span>
+                <span class="method-start">30406 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=clickonListReportTest status=SUCCESS method=ListReportTest.clickonListReportTest(ja...)</span>
+                <span class="method-start">30726 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfVersionCard</span>
+                <span class="method-start">30726 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfVersionCard status=SUCCESS method=ListReportTest.visibilityOfVersionCar...)</span>
+                <span class="method-start">30786 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfPlateformVersion</span>
+                <span class="method-start">30787 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfPlateformVersion status=SUCCESS method=ListReportTest.visibilityOfPlate...)</span>
+                <span class="method-start">30817 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfProductName</span>
+                <span class="method-start">30817 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfProductName status=SUCCESS method=ListReportTest.visibilityOfProductNam...)</span>
+                <span class="method-start">33408 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfSoftwareVersion</span>
+                <span class="method-start">33409 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">closeproductVersionCard</span>
+                <span class="method-start">33672 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfSoftwareVersion status=SUCCESS method=ListReportTest.visibilityOfSoftwa...)</span>
+                <span class="method-start">33672 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=closeproductVersionCard status=SUCCESS method=ListReportTest.closeproductVersionCar...)</span>
+                <span class="method-start">33782 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyListReportpage</span>
+                <span class="method-start">33782 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyListReportpage status=SUCCESS method=ListReportTest.verifyListReportpage()[pr...)</span>
+                <span class="method-start">33831 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">visibilityOfHelpIcon</span>
+                <span class="method-start">33831 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">VerifyClickOnNotificationIcon</span>
+                <span class="method-start">33865 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=visibilityOfHelpIcon status=SUCCESS method=ListReportTest.visibilityOfHelpIcon()[pr...)</span>
+                <span class="method-start">33865 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=VerifyClickOnNotificationIcon status=SUCCESS method=ListReportTest.VerifyClickOnNot...)</span>
+                <span class="method-start">34001 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifymodulname(Shrava)</span>
+                <span class="method-start">34001 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifymodulname status=SUCCESS method=ListReportTest.verifymodulname(java.lang.Stri...)</span>
+                <span class="method-start">34034 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyNotpadIcon</span>
+                <span class="method-start">34035 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyNotpadIcon status=SUCCESS method=ListReportTest.verifyNotpadIcon()[pri:0, ins...)</span>
+                <span class="method-start">34059 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyfilterIcon</span>
+                <span class="method-start">34059 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyfilterIcon status=SUCCESS method=ListReportTest.verifyfilterIcon()[pri:0, ins...)</span>
+                <span class="method-start">34086 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyrefreshicon</span>
+                <span class="method-start">34087 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyrefreshicon status=SUCCESS method=ListReportTest.verifyrefreshicon()[pri:0, i...)</span>
+                <span class="method-start">34111 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifyOptionFromUserIconOnShonitReportPage</span>
+                <span class="method-start">34111 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifyOptionFromUserIconOnShonitReportPage status=SUCCESS method=ListReportTest.ver...)</span>
+                <span class="method-start">39897 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifytableheader(Shrava)</span>
+                <span class="method-start">39898 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifytableheader status=SUCCESS method=ListReportTest.verifytableheader(java.lang....)</span>
+                <span class="method-start">40070 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">termsNCondTestOnShonitReportPage</span>
+                <span class="method-start">40070 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=termsNCondTestOnShonitReportPage status=SUCCESS method=ListReportTest.termsNCondTes...)</span>
+                <span class="method-start">40853 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">checkpaginationeditbox</span>
+                <span class="method-start">40854 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkpaginationeditbox status=SUCCESS method=ListReportTest.checkpaginationeditbox(...)</span>
+                <span class="method-start">41164 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">checkpaginationchevronicons</span>
+                <span class="method-start">41165 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">checkpaginationposition</span>
+                <span class="method-start">41203 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkpaginationchevronicons status=SUCCESS method=ListReportTest.checkpaginationche...)</span>
+                <span class="method-start">41203 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=checkpaginationposition status=SUCCESS method=ListReportTest.checkpaginationpositio...)</span>
+                <span class="method-start">41246 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">verifySearchEnterText(Shrava)</span>
+                <span class="method-start">41247 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">getResult([TestResult name=verifySearchEnterText status=SUCCESS method=ListReportTest.verifySearchEnterText(ja...)</span>
+                <span class="method-start">46069 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.Shrava.LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite after">
+                <span class="method-name">tearDown(Shrava)</span>
+                <span class="method-start">51100 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

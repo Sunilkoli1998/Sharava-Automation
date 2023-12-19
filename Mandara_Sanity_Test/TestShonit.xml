@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Shonit">
+
+ 
+
+    <parameter name="browserType" value="chrome"/>
+    <parameter name="url" value="https://qa.sigtuple.com/login"/>
+        
+   <!--List of Products : Shonit, Shrava, Aadi, Fundus, OCT, Digitizer -->>
+    <parameter name="product" value="Shrava"/>
+    
+    <listeners>
+        <listener class-name="com.utilities.ScreenshotListeners"/>
+    </listeners>
+
+    <test name="Mandara_Test">
+        <classes>
+            <class name="com.Shrava.LoginTest"/>
+            <class name="com.Shrava.MandaraHomeTest"/>
+            <class name="com.Shrava.ListReportTest"/>
+            <!---   <class name="com.Shrava.ReportPageTest"/>
+
+               <class name="com.shonit.ShonitMetricsReportTest"/>
+    <class name="com.Shrava.SummarytabTest"/>
+
+
+
+   <class name="com.Shrava.ReportPageTest"/>
+                  <class name="com.shonit.ShonitWBCReportTest"/>
+                  <class name="com.shonit.ShonitRBCReportTest"/>
+                  <class name="com.shonit.ShonitPlateleteReportTest"/>
+                 <class name="com.shonit.MicroscopicViewTest"/>
+               <class name="com.Shrava.SummarytabTest"/>
+               <class name="com.Shrava.micrscopiocTest"/>  -->
+
+
+        </classes>
+    </test>
+</suite>

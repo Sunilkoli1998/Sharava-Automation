@@ -1,0 +1,114 @@
+2023-12-05 11:49:05 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2023-12-05 11:49:14 INFO  LoginTest:47 - Sigtuple title is successfully verified
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2023-12-05 11:49:14 INFO  Login:45 - mandara app is loaded
+2023-12-05 11:49:14 INFO  LoginTest:56 - Mandara App is loaded successfully in UI
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2023-12-05 11:49:14 INFO  Login:55 - sigtuple logo is loaded
+2023-12-05 11:49:14 INFO  LoginTest:63 - Sigtuple icon visible
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2023-12-05 11:49:14 INFO  Login:65 - login container is loaded
+2023-12-05 11:49:14 INFO  LoginTest:70 - Login container is visible
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2023-12-05 11:49:14 INFO  Login:76 - user name field is displayed
+2023-12-05 11:49:14 INFO  LoginTest:77 - verifyVisibilityOfUserNameField
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2023-12-05 11:49:14 INFO  Login:88 - user name field is displayed
+2023-12-05 11:49:14 INFO  LoginTest:84 - verifyVisibilityOfPassNameField
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2023-12-05 11:49:14 INFO  Login:100 - Login buttin is visible
+2023-12-05 11:49:14 INFO  LoginTest:91 - visibilityOfLoginButton
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2023-12-05 11:49:14 INFO  Login:112 - Login buttin is disabled
+2023-12-05 11:49:14 INFO  LoginTest:98 - enabilityOfLoginButton
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2023-12-05 11:49:14 INFO  Login:131 - user name alert Msg :Please enter your user name
+2023-12-05 11:49:14 INFO  LoginTest:105 - Alert message for Username field verified
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2023-12-05 11:49:14 INFO  Login:146 - password field alert Msg :Please enter your password
+2023-12-05 11:49:14 INFO  LoginTest:112 - Alert message for Password field verified
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2023-12-05 11:49:14 INFO  Login:156 - forgot pass button is displayed
+2023-12-05 11:49:14 INFO  LoginTest:120 - visibilityOfForgotPasswordButton
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2023-12-05 11:49:14 INFO  Login:168 - clicked on forgot pass button
+2023-12-05 11:49:14 INFO  LoginTest:128 - clickOnForgotPasswordButton
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2023-12-05 11:49:14 INFO  Login:179 - forgot password page loaded
+2023-12-05 11:49:14 INFO  LoginTest:136 - verifyForgotPasswordPageLoaded
+2023-12-05 11:49:14 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2023-12-05 11:49:15 INFO  Login:191 - Email field is displayed
+2023-12-05 11:49:15 INFO  LoginTest:143 - visibilityOfForgotPasswordButton
+2023-12-05 11:49:15 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2023-12-05 11:49:15 INFO  Login:202 - back to login button is displayed
+2023-12-05 11:49:15 INFO  LoginTest:150 - visibilityOfBackToLoginButton
+2023-12-05 11:49:15 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2023-12-05 11:49:15 INFO  Login:213 - password reset button is displayed and disabled
+2023-12-05 11:49:15 INFO  LoginTest:157 - visibilityOfReserPasswordButton
+2023-12-05 11:49:15 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2023-12-05 11:49:15 INFO  Login:225 - reset buttin is disabled
+2023-12-05 11:49:15 INFO  LoginTest:164 - enabilityOfReserPasswordButton
+2023-12-05 11:49:15 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2023-12-05 11:49:15 INFO  Login:286 - entered text is an email ID
+2023-12-05 11:49:16 INFO  LoginTest:186 - verifyAlertforInvalideEmail
+2023-12-05 11:49:16 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2023-12-05 11:49:21 INFO  Login:312 - entered text is an email ID
+2023-12-05 11:49:22 INFO  LoginTest:194 - verifyAlertforValideEmail
+2023-12-05 11:49:22 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2023-12-05 11:49:22 INFO  Login:331 - back to login button clicked
+2023-12-05 11:49:23 INFO  LoginTest:201 - On clicking 'Back to Login' button, the user navigates to the login form window
+2023-12-05 11:49:23 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2023-12-05 11:49:23 INFO  Login:65 - login container is loaded
+2023-12-05 11:49:23 INFO  LoginTest:209 - Login container is visible
+2023-12-05 11:49:23 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2023-12-05 11:49:23 INFO  Login:405 - clicked on login button
+2023-12-05 11:49:23 INFO  LoginTest:269 - login Done successfully
+2023-12-05 11:49:23 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2023-12-05 11:49:24 INFO  Login:417 - Mandara home page is loaded
+2023-12-05 11:49:24 INFO  LoginTest:281 - Mandara home page is Loaded

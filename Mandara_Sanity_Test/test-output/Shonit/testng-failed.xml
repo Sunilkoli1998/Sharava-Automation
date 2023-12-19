@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Shonit]">
+  <parameter name="product" value="Shrava"/>
+  <parameter name="url" value="https://qa.sigtuple.com/login"/>
+  <parameter name="browserType" value="chrome"/>
+  <listeners>
+    <listener class-name="com.utilities.ScreenshotListeners"/>
+  </listeners>
+  <test name="Mandara_Test(failed)">
+    <classes>
+      <class name="com.Shrava.ListReportTest">
+        <methods>
+          <include name="initializeTestBaseSetup"/>
+          <include name="getResult"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Shrava.ListReportTest -->
+      <class name="com.Shrava.LoginTest">
+        <methods>
+          <include name="getResult"/>
+          <include name="setUp"/>
+          <include name="verifyAlertforValideEmail"/>
+        </methods>
+      </class> <!-- com.Shrava.LoginTest -->
+      <class name="com.Shrava.MandaraHomeTest">
+        <methods>
+          <include name="getResult"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.Shrava.MandaraHomeTest -->
+    </classes>
+  </test> <!-- Mandara_Test(failed) -->
+</suite> <!-- Failed suite [Shonit] -->

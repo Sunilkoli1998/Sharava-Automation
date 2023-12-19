@@ -1,0 +1,870 @@
+2022-11-29 10:26:43 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2022-11-29 10:26:44 INFO  LoginTest:45 - Sigtuple title is successfully verified
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2022-11-29 10:26:44 INFO  Login:47 - mandara app is loaded
+2022-11-29 10:26:44 INFO  LoginTest:54 - Mandara App is loaded successfully in UI
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2022-11-29 10:26:44 INFO  Login:57 - sigtuple logo is loaded
+2022-11-29 10:26:44 INFO  LoginTest:61 - Sigtuple icon visible
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2022-11-29 10:26:44 INFO  Login:67 - login container is loaded
+2022-11-29 10:26:44 INFO  LoginTest:68 - Login container is visible
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2022-11-29 10:26:44 INFO  Login:78 - user name field is displayed
+2022-11-29 10:26:44 INFO  LoginTest:75 - verifyVisibilityOfUserNameField
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2022-11-29 10:26:44 INFO  Login:90 - user name field is displayed
+2022-11-29 10:26:44 INFO  LoginTest:82 - verifyVisibilityOfPassNameField
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2022-11-29 10:26:44 INFO  Login:102 - Login buttin is visible
+2022-11-29 10:26:44 INFO  LoginTest:89 - visibilityOfLoginButton
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2022-11-29 10:26:44 INFO  Login:114 - Login buttin is disabled
+2022-11-29 10:26:44 INFO  LoginTest:96 - enabilityOfLoginButton
+2022-11-29 10:26:44 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2022-11-29 10:26:45 INFO  Login:133 - user name alert Msg :Please enter your user name
+2022-11-29 10:26:45 INFO  LoginTest:103 - Alert message for Username field verified
+2022-11-29 10:26:45 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2022-11-29 10:26:46 INFO  Login:148 - password field alert Msg :Please enter your password
+2022-11-29 10:26:46 INFO  LoginTest:110 - Alert message for Password field verified
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2022-11-29 10:26:46 INFO  Login:158 - forgot pass button is displayed
+2022-11-29 10:26:46 INFO  LoginTest:118 - visibilityOfForgotPasswordButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2022-11-29 10:26:46 INFO  Login:170 - clicked on forgot pass button
+2022-11-29 10:26:46 INFO  LoginTest:126 - clickOnForgotPasswordButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2022-11-29 10:26:46 INFO  Login:181 - forgot password page loaded
+2022-11-29 10:26:46 INFO  LoginTest:134 - verifyForgotPasswordPageLoaded
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2022-11-29 10:26:46 INFO  Login:193 - Email field is displayed
+2022-11-29 10:26:46 INFO  LoginTest:141 - visibilityOfForgotPasswordButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2022-11-29 10:26:46 INFO  Login:204 - back to login button is displayed
+2022-11-29 10:26:46 INFO  LoginTest:148 - visibilityOfBackToLoginButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2022-11-29 10:26:46 INFO  Login:215 - password reset button is displayed and disabled
+2022-11-29 10:26:46 INFO  LoginTest:155 - visibilityOfReserPasswordButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2022-11-29 10:26:46 INFO  Login:227 - reset buttin is disabled
+2022-11-29 10:26:46 INFO  LoginTest:162 - enabilityOfReserPasswordButton
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  verify Email Field Alert Test :====================
+
+2022-11-29 10:26:46 INFO  Login:246 - Email field alert Msg :Please enter valid email id
+2022-11-29 10:26:46 INFO  LoginTest:169 - Alert message for Email field verified
+2022-11-29 10:26:46 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Not An Emailid :====================
+
+2022-11-29 10:26:47 INFO  Login:265 - entered text is not an email ID
+2022-11-29 10:26:47 INFO  Login:267 - Email field alert Msg :Please enter valid email id
+2022-11-29 10:26:47 INFO  LoginTest:176 - verifyAlertforInvalideEmail
+2022-11-29 10:26:47 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2022-11-29 10:26:48 INFO  Login:286 - entered text is an email ID
+2022-11-29 10:26:48 INFO  LoginTest:184 - verifyAlertforInvalideEmail
+2022-11-29 10:26:48 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2022-11-29 10:26:54 INFO  Login:312 - entered text is an email ID
+2022-11-29 10:26:55 INFO  LoginTest:192 - verifyAlertforValideEmail
+2022-11-29 10:26:55 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2022-11-29 10:26:55 INFO  Login:331 - back to login button clicked
+2022-11-29 10:26:55 INFO  LoginTest:199 - On clicking 'Back to Login' button, the user navigates to the login form window
+2022-11-29 10:26:55 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2022-11-29 10:26:56 INFO  Login:67 - login container is loaded
+2022-11-29 10:26:56 INFO  LoginTest:207 - Login container is visible
+2022-11-29 10:26:56 INFO  ScreenshotListeners:41 - 
+================:  verify Copyright On Login Page :====================
+
+2022-11-29 10:26:56 INFO  Login:348 - copyright text : Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-29 10:26:56 INFO  LoginTest:218 - Copy right info is displayed to users on Login Page Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-29 10:26:56 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2022-11-29 10:26:56 INFO  Login:405 - clicked on login button
+2022-11-29 10:26:56 INFO  LoginTest:267 - login Done successfully
+2022-11-29 10:26:56 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2022-11-29 10:26:59 INFO  Login:417 - Mandara home page is loaded
+2022-11-29 10:26:59 INFO  LoginTest:279 - Mandara home page is Loaded
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  check Madara Home Page :====================
+
+2022-11-29 10:26:59 INFO  MandaraHomeTest:34 - Mandara Home Page has loaded successfully
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  check Sigtuple Icon :====================
+
+2022-11-29 10:26:59 INFO  MandaraHomeTest:41 - Sigtuple mini icon on static bar is present on top left and is clickable
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  checkusericon :====================
+
+2022-11-29 10:26:59 INFO  MandaraHomeTest:53 - User Icon is present on static bar is present on top right and is clickable
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  number Of Products For User :====================
+
+2022-11-29 10:26:59 INFO  MandaraHomeTest:73 - Number of Products currently accessible to users is 4
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  copyright Test :====================
+
+2022-11-29 10:26:59 INFO  MandaraHomeTest:83 - Copyright info is not identified
+2022-11-29 10:26:59 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test :====================
+
+2022-11-29 10:27:02 INFO  MandaraHomeTest:90 - Terms of Service hyperlink is displayed
+2022-11-29 10:27:02 INFO  MandaraHomeTest:91 - Terms of Service dialog box opened up on clicking on hyperlink
+2022-11-29 10:27:02 INFO  MandaraHomeTest:92 - The header of the dialog box is 'Terms of Service'
+2022-11-29 10:27:02 INFO  MandaraHomeTest:93 - Terms of Service dialog box is closed successfully
+2022-11-29 10:27:02 INFO  ScreenshotListeners:41 - 
+================:  privacy Policy :====================
+
+2022-11-29 10:27:02 INFO  MandaraHomeTest:109 - The Privacy policy document is not verified
+2022-11-29 10:27:02 INFO  ScreenshotListeners:41 - 
+================:  availability Of Shonit Card :====================
+
+2022-11-29 10:27:02 ERROR BrowserSetUp:156 - availabilityOfShonitCard -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//h2[contains(text(),'Shonit')]}
+
+2022-11-29 10:27:02 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon :====================
+
+2022-11-29 10:27:02 ERROR BrowserSetUp:156 - verifyOptionFromUserIcon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='username']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  clickon List Report Test :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - clickonListReportTest -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Version Card :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Plateform Version :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Product Name :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Software Version :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  closeproduct Version Card :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify List Reportpage :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyListReportpage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=.analysis-reports}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Help Icon :====================
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  Verify Click On Notification Icon :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - VerifyClickOnNotificationIcon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='new-notification ng-star-inserted']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify Visibilioty O Flag Colour :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyVisibiliotyOFlagColour -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//body/app-root/div[@class='mandara-app']/div/app-list-reports[@class='ng-star-inserted']/div[@class='list-reports']/app-analysis-report/div[@class='analysis-report']/div[@class='container analysis-report-table-wrapper']/div[@class='ng-star-inserted']/div/div[1]}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify Notpad Icon :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyNotpadIcon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=i.report-icon}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verifymodulname :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifymodulname -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//span[@class='module-name']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verifyfilter Icon :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyfilterIcon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//i[contains(@title,'Filter')]}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verifyrefreshicon :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyrefreshicon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//i[@title='Refresh']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon On Shonit Report Page :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyOptionFromUserIconOnShonitReportPage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verifytableheader :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifytableheader -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=table tr.mat-header-row th}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test On Shonit Report Page :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - termsNCondTestOnShonitReportPage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//a[contains(.,'Terms of Service')]}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationeditbox :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - checkpaginationeditbox -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//input[@type='number']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationchevronicons :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - checkpaginationchevronicons -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//mat-icon[contains(text(),'keyboard_arrow_right')]}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationposition :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - checkpaginationposition -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='max-page-text']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify Search Enter Text :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifySearchEnterText -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//i[@class='material-icons hide-search-icon ng-star-inserted']}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  verify Add Assignee :====================
+
+2022-11-29 10:27:03 ERROR BrowserSetUp:156 - verifyAddAssignee -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//tbody//tr[1]//td[9]//following-sibling::div//div//mat-select//span}
+
+2022-11-29 10:27:03 INFO  ScreenshotListeners:41 - 
+================:  searchsample I D :====================
+
+2022-11-29 10:27:04 ERROR BrowserSetUp:156 - searchsampleID -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//button[@class='mat-icon-button sidenav-toggle-button ng-star-inserted']}
+
+2022-11-29 10:27:04 INFO  ScreenshotListeners:41 - 
+================:  verifysample Detail At Report Page :====================
+
+2022-11-29 10:27:04 INFO  ScreenshotListeners:41 - 
+================:  verify Slide I D :====================
+
+2022-11-29 10:27:04 ERROR BrowserSetUp:156 - verifySlideID -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='slide-id ng-star-inserted']}
+
+2022-11-29 10:27:04 INFO  ScreenshotListeners:41 - 
+================:  verifyslide Detail At Report Page :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyslideDetailAtReportPage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//mat-panel-title[@class='mat-expansion-panel-header-title']}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify Header On Report Page :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyHeaderOnReportPage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='tab-wrapper container']//mat-tab-header[@class='mat-tab-header']}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify P B S Report Header :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyPBSReportHeader -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//section[@id='otherMetrics']//table//thead//tr//th}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify All Reports Name :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyAllReportsName -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//section[@id='otherMetrics']//table//tbody//tr//td[1]}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify Ps Impression Header :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyPsImpressionHeader -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//section[@id='psimpression']//table//thead}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify Ps Impressions Name :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyPsImpressionsName -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//section[@id='psimpression']//table//tbody//tr//td[1]}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verifying Original Report :====================
+
+2022-11-29 10:27:05 ERROR BrowserSetUp:156 - verifyingOriginalReport -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//*[contains(text(),'Original')]}
+
+2022-11-29 10:27:05 INFO  ScreenshotListeners:41 - 
+================:  verify Download Report :====================
+
+2022-11-29 10:27:07 ERROR BrowserSetUp:156 - verifyDownloadReport -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='download']}
+
+2022-11-29 10:27:07 INFO  ScreenshotListeners:41 - 
+================:  verify All Accessibility Button Text :====================
+
+2022-11-29 10:27:10 ERROR BrowserSetUp:156 - verifyAllAccessibilityButtonText -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='pbs-card-wrap container ng-star-inserted']//div[@fxlayout='row']}
+
+2022-11-29 10:27:10 INFO  ScreenshotListeners:41 - 
+================:  verify Report Page :====================
+
+2022-11-29 10:27:10 ERROR BrowserSetUp:156 - verifyReportPage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+
+2022-11-29 10:27:10 INFO  ScreenshotListeners:41 - 
+================:  switchto R B C Tab :====================
+
+2022-11-29 10:27:17 ERROR BrowserSetUp:156 - switchtoRBCTab -> FAILED due to below issues :
+java.lang.AssertionError: expected [true] but found [false]
+
+2022-11-29 10:27:17 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Tab :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyRBCTab -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='rbc-wrapper ng-star-inserted']//mat-tab-header[@class='mat-tab-header']}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Columns :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyRBCSizeColumns -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@id='tablecontainer']//table/thead/tr}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Rows :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyRBCSizeRows -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//following-sibling::table/thead/tr/th[1]//following::tbody//td[1]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verifygrade Colour For Microcyte :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifygradeColourForMicrocyte -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//table//tr[1]//td[2]//mat-select[contains(@class,'mat-select')]/div[@class='mat-select-trigger']}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify Significant Text :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifySignificantText -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@id='tablecontainer']/child::div[2]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify Note Message :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyNoteMessage -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@id='tablecontainer']/child::div[3]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Grading :====================
+
+2022-11-29 10:27:20 INFO  ShonitRBCReportTest:111 - Grading in RBC size is verified 
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify Metric N Ame :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyMetricNAme -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//app-report-table//app-report-table-patches//div[@class='theme-color table-header']/div[1]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  Verify View R B C :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - VerifyViewRBC -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//span[@class='ng-star-inserted']//div[@class='mat-form-field-infix']//child::div[2]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify Enable Or Disable View Setting :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifyEnableOrDisableViewSetting -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//mat-tab-body//app-report-table-patches//div[1]/child::div[@class='theme-color table-header']/div[2]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verifycell Name On R Eferences :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - verifycellNameOnREferences -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//span[contains(text(),'Microcyte')]}
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Poik Grading :====================
+
+2022-11-29 10:27:20 INFO  ShonitRBCReportTest:187 - Grading in RBC Poik is verified 
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  click On R B C Rsize Grading :====================
+
+2022-11-29 10:27:20 ERROR BrowserSetUp:156 - clickOnRBCRsizeGrading -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+
+2022-11-29 10:27:20 INFO  ScreenshotListeners:41 - 
+================:  switchto R B C Poikilocytes Tab :====================
+
+2022-11-29 10:27:24 ERROR BrowserSetUp:156 - switchtoRBCPoikilocytesTab -> FAILED due to below issues :
+java.lang.AssertionError: expected [true] but found [false]
+
+2022-11-29 10:27:24 INFO  ScreenshotListeners:41 - 
+================:  click On Gradeat R B C Poikilocytes :====================
+
+2022-11-29 10:27:26 ERROR BrowserSetUp:156 - clickOnGradeatRBCPoikilocytes -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//table//tr[3]//td[2]//mat-select[contains(@class,'mat-select')]/div[@class='mat-select-trigger']}
+
+2022-11-29 10:27:26 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon :====================
+
+2022-11-29 10:27:26 ERROR BrowserSetUp:156 - clickoncommenticon -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//div[@class='comments ng-star-inserted']}
+
+2022-11-29 10:27:26 INFO  ScreenshotListeners:41 - 
+================:  loadcommentbox :====================
+
+2022-11-29 10:27:27 ERROR BrowserSetUp:156 - loadcommentbox -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=.comments-box}
+
+2022-11-29 10:27:27 INFO  ScreenshotListeners:41 - 
+================:  validatebox :====================
+
+2022-11-29 10:27:30 ERROR BrowserSetUp:156 - validatebox -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//h2[@class='comments-header']}
+
+2022-11-29 10:27:30 INFO  ScreenshotListeners:41 - 
+================:  closecommentbox :====================
+
+2022-11-29 10:27:30 ERROR BrowserSetUp:156 - closecommentbox -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=.modal-clear}
+
+2022-11-29 10:27:30 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon1 :====================
+
+2022-11-29 10:27:31 ERROR BrowserSetUp:156 - clickoncommenticon1 -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=css selector, value=.circle-icon}
+
+2022-11-29 10:27:31 INFO  ScreenshotListeners:41 - 
+================:  checkuser :====================
+
+2022-11-29 10:27:33 ERROR BrowserSetUp:156 - checkuser -> FAILED due to below issues :
+org.openqa.selenium.NoSuchSessionException: invalid session id
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:1483:7ea3:40c4:f372%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57723}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 42a1cc47e6073380abe8ad496b46e71d
+*** Element info: {Using=xpath, value=//button[@class='mat-button default-button post-button']}
+

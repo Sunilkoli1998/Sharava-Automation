@@ -1,0 +1,628 @@
+2023-10-30 12:33:27 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2023-10-30 12:33:28 INFO  LoginTest:46 - Sigtuple title is successfully verified
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2023-10-30 12:33:28 INFO  Login:45 - mandara app is loaded
+2023-10-30 12:33:28 INFO  LoginTest:55 - Mandara App is loaded successfully in UI
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2023-10-30 12:33:28 INFO  Login:55 - sigtuple logo is loaded
+2023-10-30 12:33:28 INFO  LoginTest:62 - Sigtuple icon visible
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2023-10-30 12:33:28 INFO  Login:65 - login container is loaded
+2023-10-30 12:33:28 INFO  LoginTest:69 - Login container is visible
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2023-10-30 12:33:28 INFO  Login:76 - user name field is displayed
+2023-10-30 12:33:28 INFO  LoginTest:76 - verifyVisibilityOfUserNameField
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2023-10-30 12:33:28 INFO  Login:88 - user name field is displayed
+2023-10-30 12:33:28 INFO  LoginTest:83 - verifyVisibilityOfPassNameField
+2023-10-30 12:33:28 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2023-10-30 12:33:29 INFO  Login:100 - Login buttin is visible
+2023-10-30 12:33:29 INFO  LoginTest:90 - visibilityOfLoginButton
+2023-10-30 12:33:29 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2023-10-30 12:33:29 INFO  Login:112 - Login buttin is disabled
+2023-10-30 12:33:29 INFO  LoginTest:97 - enabilityOfLoginButton
+2023-10-30 12:33:29 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2023-10-30 12:33:29 INFO  Login:131 - user name alert Msg :Please enter your user name
+2023-10-30 12:33:29 INFO  LoginTest:104 - Alert message for Username field verified
+2023-10-30 12:33:29 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2023-10-30 12:33:30 INFO  Login:146 - password field alert Msg :Please enter your password
+2023-10-30 12:33:30 INFO  LoginTest:111 - Alert message for Password field verified
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2023-10-30 12:33:30 INFO  Login:156 - forgot pass button is displayed
+2023-10-30 12:33:30 INFO  LoginTest:119 - visibilityOfForgotPasswordButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2023-10-30 12:33:30 INFO  Login:168 - clicked on forgot pass button
+2023-10-30 12:33:30 INFO  LoginTest:127 - clickOnForgotPasswordButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2023-10-30 12:33:30 INFO  Login:179 - forgot password page loaded
+2023-10-30 12:33:30 INFO  LoginTest:135 - verifyForgotPasswordPageLoaded
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2023-10-30 12:33:30 INFO  Login:191 - Email field is displayed
+2023-10-30 12:33:30 INFO  LoginTest:142 - visibilityOfForgotPasswordButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2023-10-30 12:33:30 INFO  Login:202 - back to login button is displayed
+2023-10-30 12:33:30 INFO  LoginTest:149 - visibilityOfBackToLoginButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2023-10-30 12:33:30 INFO  Login:213 - password reset button is displayed and disabled
+2023-10-30 12:33:30 INFO  LoginTest:156 - visibilityOfReserPasswordButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2023-10-30 12:33:30 INFO  Login:225 - reset buttin is disabled
+2023-10-30 12:33:30 INFO  LoginTest:163 - enabilityOfReserPasswordButton
+2023-10-30 12:33:30 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2023-10-30 12:33:30 INFO  Login:286 - entered text is an email ID
+2023-10-30 12:33:31 INFO  LoginTest:185 - verifyAlertforInvalideEmail
+2023-10-30 12:33:31 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2023-10-30 12:33:36 INFO  Login:312 - entered text is an email ID
+2023-10-30 12:33:37 INFO  LoginTest:193 - verifyAlertforValideEmail
+2023-10-30 12:33:37 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2023-10-30 12:33:37 INFO  Login:331 - back to login button clicked
+2023-10-30 12:33:37 INFO  LoginTest:200 - On clicking 'Back to Login' button, the user navigates to the login form window
+2023-10-30 12:33:37 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2023-10-30 12:33:37 INFO  Login:65 - login container is loaded
+2023-10-30 12:33:37 INFO  LoginTest:208 - Login container is visible
+2023-10-30 12:33:37 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2023-10-30 12:33:38 INFO  Login:405 - clicked on login button
+2023-10-30 12:33:38 INFO  LoginTest:268 - login Done successfully
+2023-10-30 12:33:38 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2023-10-30 12:33:39 INFO  Login:417 - Mandara home page is loaded
+2023-10-30 12:33:39 INFO  LoginTest:280 - Mandara home page is Loaded
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  check Madara Home Page :====================
+
+2023-10-30 12:33:39 INFO  MandaraHomeTest:35 - Mandara Home Page has loaded successfully
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  verify Shonit Carddetails :====================
+
+2023-10-30 12:33:39 INFO  MandaraHome:165 -  all details of this card is verified 
+2023-10-30 12:33:39 INFO  MandaraHomeTest:202 - All details on shonit card is verified 
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  check Sigtuple Icon :====================
+
+2023-10-30 12:33:39 INFO  MandaraHomeTest:42 - Sigtuple mini icon on static bar is present on top left and is clickable
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  checkusericon :====================
+
+2023-10-30 12:33:39 INFO  MandaraHomeTest:54 - User Icon is present on static bar is present on top right and is clickable
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  number Of Products For User :====================
+
+2023-10-30 12:33:39 INFO  MandaraHomeTest:74 - Number of Products currently accessible to users is 2
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  availability Of Shrava Card :====================
+
+2023-10-30 12:33:39 INFO  MandaraHomeTest:160 - Shrava product is available for current user
+2023-10-30 12:33:39 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon :====================
+
+2023-10-30 12:33:44 INFO  MandaraHomeTest:66 - All expected option are available after click on user icon
+2023-10-30 12:33:44 INFO  ScreenshotListeners:41 - 
+================:  clickon List Report Test :====================
+
+2023-10-30 12:33:44 INFO  ListReportTest:49 - Clicked on List Report Successfully to load
+2023-10-30 12:33:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Version Card :====================
+
+2023-10-30 12:33:44 INFO  ListReportTest:58 - about app is opened
+2023-10-30 12:33:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Plateform Version :====================
+
+2023-10-30 12:33:44 INFO  ListReportTest:68 - plateform version is verified
+2023-10-30 12:33:44 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Product Name :====================
+
+2023-10-30 12:33:45 INFO  ListReportTest:93 - product name is verified
+2023-10-30 12:33:45 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Software Version :====================
+
+2023-10-30 12:33:45 INFO  ListReportTest:102 - software version is verified
+2023-10-30 12:33:45 INFO  ScreenshotListeners:41 - 
+================:  closeproduct Version Card :====================
+
+2023-10-30 12:33:45 INFO  ListReportTest:111 - about app is closed
+2023-10-30 12:33:45 INFO  ScreenshotListeners:41 - 
+================:  verify List Reportpage :====================
+
+2023-10-30 12:33:45 INFO  ListReportTest:122 - List Report page loaded
+2023-10-30 12:33:45 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Help Icon :====================
+
+2023-10-30 12:33:45 INFO  ListReportTest:76 - help icon is verified
+2023-10-30 12:33:45 INFO  ScreenshotListeners:41 - 
+================:  Verify Click On Notification Icon :====================
+
+2023-10-30 12:33:46 INFO  ListReportTest:84 - Clicked on notification icon Successfully 
+2023-10-30 12:33:46 INFO  ScreenshotListeners:41 - 
+================:  verify Notpad Icon :====================
+
+2023-10-30 12:33:46 INFO  ListReportTest:144 - Notepad Icon is available before 'Analysis Reports' text
+2023-10-30 12:33:46 INFO  ScreenshotListeners:41 - 
+================:  verifymodulname :====================
+
+2023-10-30 12:33:46 INFO  ListReportTest:137 - Modul name contains :Shrava
+2023-10-30 12:33:46 INFO  ScreenshotListeners:41 - 
+================:  verifyfilter Icon :====================
+
+2023-10-30 12:33:46 INFO  ListReportTest:158 - Filter icon is displayed
+2023-10-30 12:33:46 INFO  ScreenshotListeners:41 - 
+================:  verifyrefreshicon :====================
+
+2023-10-30 12:33:46 INFO  ListReportTest:165 - Refresh icon is displayed
+2023-10-30 12:33:46 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon On Shonit Report Page :====================
+
+2023-10-30 12:33:51 INFO  ListReportTest:178 - All expected option are available after click on user icon
+2023-10-30 12:33:51 INFO  ScreenshotListeners:41 - 
+================:  verifytableheader :====================
+
+2023-10-30 12:33:51 INFO  ListReportTest:197 - Success: validation of list of columns in Shonit list Report PRIORITY,SAMPLE ID,DESCRIPTION,INSTALLATION,SUBMITTED BY,SUBMITTED AT,REVIEWER,STATUS,
+2023-10-30 12:33:51 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test On Shonit Report Page :====================
+
+2023-10-30 12:33:52 INFO  ListReportTest:184 - Terms of Service hyperlink is displayed
+2023-10-30 12:33:52 INFO  ListReportTest:185 - Terms of Service dialog box opened up on clicking on hyperlink
+2023-10-30 12:33:52 INFO  ListReportTest:186 - The header of the dialog box is 'Terms of Service'
+2023-10-30 12:33:52 INFO  ListReportTest:187 - Terms of Service dialog box is closed successfully
+2023-10-30 12:33:52 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationeditbox :====================
+
+2023-10-30 12:33:52 INFO  ListReportTest:204 - edit box is visible to enter page number 
+2023-10-30 12:33:52 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationchevronicons :====================
+
+2023-10-30 12:33:52 INFO  ListReportTest:218 - chevron icons are visible at the bottom of page
+2023-10-30 12:33:52 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationposition :====================
+
+2023-10-30 12:33:52 INFO  ListReportTest:211 - table page numbers are visible
+2023-10-30 12:33:52 INFO  ScreenshotListeners:41 - 
+================:  verify Search Enter Text :====================
+
+2023-10-30 12:33:56 INFO  ListReportTest:227 - Search Text passed successfully
+2023-10-30 12:33:56 INFO  ScreenshotListeners:41 - 
+================:  searchsample I D :====================
+
+2023-10-30 12:34:10 INFO  ReportPage:160 - Santosh_B
+2023-10-30 12:34:10 INFO  ReportPageTest:49 - sample is searched for get the reprot for page
+2023-10-30 12:34:10 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Disclaimer :====================
+
+2023-10-30 12:34:18 INFO  ReportPageTest:56 - Sample id is verified successfully Disclaimer :  This report is meant for review and subsequent approval from a certified pathologist. Under no circumstances shall this report be provided to the patient without the approval from a certified pathologist.
+2023-10-30 12:34:18 INFO  ScreenshotListeners:41 - 
+================:  verifyslide Detail At Report Page :====================
+
+2023-10-30 12:34:20 INFO  ReportPage:350 - Description:
+2023-10-30 12:34:20 INFO  ReportPage:350 - Description:Submitted By:
+2023-10-30 12:34:20 INFO  ReportPage:350 - Description:Submitted By:Product Version:
+2023-10-30 12:34:20 INFO  ReportPage:350 - Description:Submitted By:Product Version:Chamber No:
+2023-10-30 12:34:20 INFO  ReportPage:350 - Description:Submitted By:Product Version:Chamber No:Submitted At:
+2023-10-30 12:34:20 INFO  ReportPageTest:82 - details are verifiedDescription:Submitted By:Product Version:Chamber No:Submitted At:
+2023-10-30 12:34:20 INFO  ScreenshotListeners:41 - 
+================:  verify Header On Report Page :====================
+
+2023-10-30 12:34:20 INFO  ReportPageTest:94 -  expected header is present on report page
+2023-10-30 12:34:20 INFO  ScreenshotListeners:41 - 
+================:  verifyurine Report Header :====================
+
+2023-10-30 12:34:20 INFO  ReportPageTest:102 -  expected urine  header is present on report page
+2023-10-30 12:34:20 INFO  ScreenshotListeners:41 - 
+================:  verify All Reports Name :====================
+
+2023-10-30 12:34:20 INFO  ReportPageTest:110 - expected reports types are present on report page
+2023-10-30 12:34:20 INFO  ScreenshotListeners:41 - 
+================:  verify Download Report :====================
+
+2023-10-30 12:34:22 INFO  ReportPageTest:128 -  xls report format is present on downloads at report page 
+2023-10-30 12:34:22 INFO  ScreenshotListeners:41 - 
+================:  verify Report Page :====================
+
+2023-10-30 12:34:22 INFO  ReportPageTest:158 - Report page is opened successfully 
+2023-10-30 12:34:22 INFO  ScreenshotListeners:41 - 
+================:  verifyflage With Colour Code :====================
+
+2023-10-30 12:34:22 INFO  ReportPageTest:184 - reassiged reviewer detail is verified on summary pagex Normalx Abnormalx Reference
+2023-10-30 12:34:22 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Approve Button :====================
+
+2023-10-30 12:34:22 INFO  ReportPageTest:190 - Approve and reject buttons are presentdone Approve
+2023-10-30 12:34:22 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Reject Button :====================
+
+2023-10-30 12:34:22 INFO  ReportPageTest:197 - Approve and reject buttons are presentclose Reject
+2023-10-30 12:34:22 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Detected And Nondetected Note :====================
+
+2023-10-30 12:34:23 INFO  ReportPageTest:204 - Detected and non detected note is present D - DetectedND - Not Detected
+2023-10-30 12:34:23 INFO  ScreenshotListeners:41 - 
+================:  verify Exand Thepatch :====================
+
+2023-10-30 12:34:30 INFO  ReportPage:1031 - - Extracted Cell
+2023-10-30 12:34:33 INFO  ReportPageTest:221 - Full patch view opened - Extracted Cell
+2023-10-30 12:34:33 INFO  ScreenshotListeners:41 - 
+================:  verify Cell Names In Fullpatch View :====================
+
+2023-10-30 12:34:37 INFO  ReportPage:1045 - RBCWBCEpithelialCastMicro OrgCrystalYeastSpermatozoaUnclassified
+2023-10-30 12:34:37 INFO  ReportPageTest:228 - Cell names are verified and cell names are RBCWBCEpithelialCastMicro OrgCrystalYeastSpermatozoaUnclassified
+2023-10-30 12:34:37 INFO  ScreenshotListeners:41 - 
+================:  verify Presence And Functionalality Of Upand Down Arrow :====================
+
+2023-10-30 12:34:41 INFO  ReportPageTest:233 - down and up are present and working fine 
+2023-10-30 12:34:41 INFO  ScreenshotListeners:41 - 
+================:  vrify Fuctionality Of Zoom Inbutton :====================
+
+2023-10-30 12:34:49 INFO  ReportPageTest:240 - zoom in button is woking fine
+2023-10-30 12:34:49 INFO  ScreenshotListeners:41 - 
+================:  vrify Fuctionality Of Zoom Outbutton :====================
+
+2023-10-30 12:34:53 INFO  ReportPageTest:247 - zoom Out button is woking fine
+2023-10-30 12:34:53 INFO  ScreenshotListeners:41 - 
+================:  verify Reset Button Fuctionality :====================
+
+2023-10-30 12:34:59 INFO  ReportPageTest:255 - reset button is woking fine
+2023-10-30 12:34:59 INFO  ScreenshotListeners:41 - 
+================:  Selection Of100xoption :====================
+
+2023-10-30 12:35:04 INFO  ReportPageTest:268 - 100x option is selected 100x
+2023-10-30 12:35:04 INFO  ScreenshotListeners:41 - 
+================:  selection Of40x Option :====================
+
+2023-10-30 12:35:10 INFO  ReportPageTest:278 - 40x option is selected 40x
+2023-10-30 12:35:10 INFO  ScreenshotListeners:41 - 
+================:  verify Roll Over Image Note :====================
+
+2023-10-30 12:35:10 INFO  ReportPageTest:284 - The note is present and note is Roll over image to Zoom
+2023-10-30 12:35:10 INFO  ScreenshotListeners:41 - 
+================:  verify Default Check Boxselection :====================
+
+2023-10-30 12:35:10 INFO  ReportPageTest:290 - Bydefault check box is selected true
+2023-10-30 12:35:10 INFO  ScreenshotListeners:41 - 
+================:  verify Cloasing Of Full Patch :====================
+
+2023-10-30 12:35:14 INFO  ReportPageTest:298 - Full patch view closed Urine Microscopy Report
+2023-10-30 12:35:14 INFO  ScreenshotListeners:41 - 
+================:  Verifymicroscopictab :====================
+
+2023-10-30 12:35:14 INFO  micrscopiocTest:49 - sample is searched for get the reprot for page
+2023-10-30 12:35:14 INFO  ScreenshotListeners:41 - 
+================:  verify Zoom In Icon :====================
+
+2023-10-30 12:35:15 INFO  micrscopiocTest:58 - Zoom in icon is verified successfully
+2023-10-30 12:35:15 INFO  ScreenshotListeners:41 - 
+================:  verify Zoomout Icon :====================
+
+2023-10-30 12:35:15 INFO  micrscopiocTest:71 - Zoom out icon is verified successfully
+2023-10-30 12:35:15 INFO  ScreenshotListeners:41 - 
+================:  verify R E S E T Icon :====================
+
+2023-10-30 12:35:15 INFO  micrscopiocTest:84 - RESET icon is verified successfully
+2023-10-30 12:35:15 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoom In :====================
+
+2023-10-30 12:35:22 INFO  ImgDiffPercent:49 - diff b/w images : 20.665578490006755
+2023-10-30 12:35:22 INFO  micrscopiocTest:96 - The images were zoomed in successfully
+2023-10-30 12:35:22 INFO  ScreenshotListeners:41 - 
+================:  verify Image Size Reset :====================
+
+2023-10-30 12:35:30 INFO  ImgDiffPercent:49 - diff b/w images : 1.94612908873498
+2023-10-30 12:35:30 INFO  micrscopiocTest:110 - The images were zoomed in successfully
+2023-10-30 12:35:30 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoom Out :====================
+
+2023-10-30 12:35:37 INFO  ImgDiffPercent:49 - diff b/w images : 0.20017843989687914
+2023-10-30 12:35:37 INFO  micrscopic:150 - /Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/src/test/java/com/temp/zoomout-current.png
+2023-10-30 12:35:37 INFO  micrscopic:151 - 0.20017843989687914
+2023-10-30 12:35:37 INFO  micrscopiocTest:122 - The images were zoomed out successfully
+2023-10-30 12:35:37 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Nexticon :====================
+
+2023-10-30 12:35:37 INFO  micrscopiocTest:135 - Next icon is present
+2023-10-30 12:35:37 INFO  ScreenshotListeners:41 - 
+================:  verify Go Tobottomicon :====================
+
+2023-10-30 12:35:37 INFO  micrscopiocTest:148 - goto bottom icon is present
+2023-10-30 12:35:37 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Next Image :====================
+
+2023-10-30 12:35:42 INFO  ImgDiffPercent:49 - diff b/w images : 1.1124941954492322
+2023-10-30 12:35:42 INFO  micrscopic:190 - 1.1124941954492322
+2023-10-30 12:35:42 INFO  micrscopiocTest:161 - next image is loaded successfully 
+2023-10-30 12:35:42 INFO  ScreenshotListeners:41 - 
+================:  verify Go Topreviousicon :====================
+
+2023-10-30 12:35:42 INFO  micrscopiocTest:176 - previous icon is present
+2023-10-30 12:35:42 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Prev Image :====================
+
+2023-10-30 12:35:48 INFO  ImgDiffPercent:49 - diff b/w images : 0.880250145525857
+2023-10-30 12:35:48 INFO  micrscopiocTest:187 - previous image is loaded successfully 
+2023-10-30 12:35:48 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Down Image :====================
+
+2023-10-30 12:35:54 INFO  ImgDiffPercent:49 - diff b/w images : 1.0059876060478474
+2023-10-30 12:35:54 INFO  micrscopiocTest:199 - Bottom image is loaded successfully 
+2023-10-30 12:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify Go Toupicon :====================
+
+2023-10-30 12:35:54 INFO  micrscopiocTest:212 - goto up icon is present
+2023-10-30 12:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Up Image :====================
+
+2023-10-30 12:35:59 INFO  ImgDiffPercent:49 - diff b/w images : 1.0059876060478474
+2023-10-30 12:35:59 INFO  micrscopiocTest:224 - Top image is loaded successfully 
+2023-10-30 12:35:59 INFO  ScreenshotListeners:41 - 
+================:  verifypaginationtextbox :====================
+
+2023-10-30 12:35:59 INFO  micrscopiocTest:238 - paginationtextbox is present
+2023-10-30 12:35:59 INFO  ScreenshotListeners:41 - 
+================:  verifyenter Number In Textbox :====================
+
+2023-10-30 12:36:00 INFO  micrscopiocTest:251 -  same FOV Number displayed on  microscopic view cell 
+2023-10-30 12:36:00 INFO  ScreenshotListeners:41 - 
+================:  verify Mark All :====================
+
+2023-10-30 12:36:00 INFO  micrscopiocTest:259 -  Mark All text is present on WBC tab 
+2023-10-30 12:36:00 INFO  ScreenshotListeners:41 - 
+================:  verifying Minimising Of Full Fov :====================
+
+2023-10-30 12:36:00 INFO  micrscopiocTest:265 - The images were zoomed in successfully
+2023-10-30 12:36:00 INFO  ScreenshotListeners:41 - 
+================:  verifying Maximising Of Full Fov :====================
+
+2023-10-30 12:36:00 INFO  micrscopiocTest:271 - The images were zoomed out successfully
+2023-10-30 12:36:00 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon :====================
+
+2023-10-30 12:36:06 INFO  micrscopiocTest:278 - Clicked on Comment Icon Successfully
+2023-10-30 12:36:06 INFO  ScreenshotListeners:41 - 
+================:  loadcommentbox :====================
+
+2023-10-30 12:36:07 INFO  micrscopiocTest:284 - Comment Box laoded succssfully
+2023-10-30 12:36:07 INFO  ScreenshotListeners:41 - 
+================:  validatebox :====================
+
+2023-10-30 12:36:10 INFO  micrscopiocTest:290 - Comment Box is verified successfully
+2023-10-30 12:36:10 INFO  ScreenshotListeners:41 - 
+================:  closecommentbox :====================
+
+2023-10-30 12:36:13 INFO  micrscopiocTest:296 - Clicked on Comment close Icon Successfully
+2023-10-30 12:36:13 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon1 :====================
+
+2023-10-30 12:36:14 INFO  micrscopiocTest:302 - Clicked on Comment Icon Successfully
+2023-10-30 12:36:14 INFO  ScreenshotListeners:41 - 
+================:  checkuser :====================
+
+2023-10-30 12:36:16 INFO  micrscopiocTest:308 - user can update the comment
+2023-10-30 12:36:16 INFO  ScreenshotListeners:41 - 
+================:  checkpostbtnclickable :====================
+
+2023-10-30 12:36:18 INFO  micrscopiocTest:315 - Post button is clickable 
+2023-10-30 12:36:18 INFO  ScreenshotListeners:41 - 
+================:  checkaleartmsg :====================
+
+2023-10-30 12:36:20 INFO  micrscopiocTest:324 - Alert message is verified
+2023-10-30 12:36:20 INFO  ScreenshotListeners:41 - 
+================:  checkcommentbox :====================
+
+2023-10-30 12:36:21 INFO  micrscopiocTest:330 - comment box is editable for entring the comments 
+2023-10-30 12:36:21 INFO  ScreenshotListeners:41 - 
+================:  M I C R O S C O P Y_entercomment :====================
+
+2023-10-30 12:36:33 INFO  micrscopiocTest:339 - comment pushed successfully for wbc tab
+2023-10-30 12:36:33 INFO  ScreenshotListeners:41 - 
+================:  M I C R O S C O P Y_checkcomment :====================
+
+2023-10-30 12:36:39 INFO  micrscopiocTest:346 - comment verificaiton Done successfully for wbc tab
+2023-10-30 12:36:39 INFO  ScreenshotListeners:41 - 
+================:  verifyslideover Image Loaded :====================
+
+2023-10-30 12:36:39 INFO  micrscopiocTest:356 - Images is loaded in the canvas 
+2023-10-30 12:36:39 INFO  ScreenshotListeners:41 - 
+================:  verifythe Rolloverimagetozoombutton :====================
+
+2023-10-30 12:36:39 INFO  micrscopiocTest:367 - Rolloverimagetozoom is verified
+2023-10-30 12:36:39 INFO  ScreenshotListeners:41 - 
+================:  verifythepaginationfeild :====================
+
+2023-10-30 12:36:39 INFO  micrscopiocTest:380 - pagination feild is displayed
+2023-10-30 12:36:39 INFO  ScreenshotListeners:41 - 
+================:  verifythedefaultstatusofmarkallcheckbox :====================
+
+2023-10-30 12:36:41 INFO  micrscopiocTest:397 - defaultstatusofmarkallcheckbox is disabled 
+2023-10-30 12:36:41 INFO  ScreenshotListeners:41 - 
+================:  verifythe N O T Eonslideoverview :====================
+
+2023-10-30 12:36:41 INFO  micrscopiocTest:421 - Verified the NOTE on Slideoverview page
+2023-10-30 12:36:41 INFO  ScreenshotListeners:41 - 
+================:  verifythepatchesgettingchange :====================
+
+2023-10-30 12:37:16 INFO  ScreenshotListeners:41 - 
+================:  verifytheecellsofmicroscopicview :====================
+
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,Spermatozoa,
+2023-10-30 12:37:16 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,Spermatozoa,Unclassified,
+2023-10-30 12:37:16 INFO  micrscopiocTest:437 - Succesfully verified the cells of the microscopic view
+2023-10-30 12:37:16 INFO  ScreenshotListeners:41 - 
+================:  verifyavailabilityof Expand F O V Button :====================
+
+2023-10-30 12:37:16 INFO  micrscopiocTest:447 - FOV  BUTTON is present
+2023-10-30 12:37:16 INFO  ScreenshotListeners:41 - 
+================:  verify E X P A N D E D F O V :====================
+
+2023-10-30 12:37:16 INFO  micrscopiocTest:461 -  Microscopic Image is expanded successfully to view the full Image  
+2023-10-30 12:37:16 INFO  ScreenshotListeners:41 - 
+================:  verifyfunctionalityof R O L L O V E R Z O O M C H E C K B O Xlmorethanhundredprcent :====================
+
+2023-10-30 12:37:27 INFO  ScreenshotListeners:41 - 
+================:  verifyfucntionalityofrolloverzoomcheckboxbyhundredpercent :====================
+
+2023-10-30 12:37:45 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoom In Expandedfov :====================
+
+2023-10-30 12:37:51 INFO  ImgDiffPercent:49 - diff b/w images : 0.7283134094777364
+2023-10-30 12:37:51 INFO  micrscopiocTest:503 - The images were zoomed in successfully
+2023-10-30 12:37:51 INFO  ScreenshotListeners:41 - 
+================:  verify Image Sizereset Expandedfov :====================
+
+2023-10-30 12:37:59 INFO  ImgDiffPercent:49 - diff b/w images : 0.921861150907017
+2023-10-30 12:37:59 INFO  micrscopiocTest:516 - The images were SizeReset successfully
+2023-10-30 12:37:59 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoomout Expandedfov :====================
+
+2023-10-30 12:38:05 INFO  ImgDiffPercent:49 - diff b/w images : 0.18947289969453698
+2023-10-30 12:38:05 INFO  micrscopic:150 - /Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/src/test/java/com/temp/zoomout-current.png
+2023-10-30 12:38:05 INFO  micrscopic:151 - 0.18947289969453698
+2023-10-30 12:38:05 INFO  micrscopiocTest:528 - The images were zoomed out successfully
+2023-10-30 12:38:05 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Nexticon I Nexpandedpatchview :====================
+
+2023-10-30 12:38:05 INFO  micrscopiocTest:541 - Next icon is present in Expanded patch view 
+2023-10-30 12:38:05 INFO  ScreenshotListeners:41 - 
+================:  verify Go Toupicon I Nexpandedpatchview :====================
+
+2023-10-30 12:38:05 INFO  micrscopiocTest:554 - goto up icon is present in Expanded patch view
+2023-10-30 12:38:05 INFO  ScreenshotListeners:41 - 
+================:  verify Go Tobottomicon I Nexpandedpatchview :====================
+
+2023-10-30 12:38:05 INFO  micrscopiocTest:567 - goto bottom icon is present in Expanded patch view
+2023-10-30 12:38:05 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Next Image I Nexpandedpatchview :====================
+
+2023-10-30 12:38:10 INFO  ImgDiffPercent:49 - diff b/w images : 0.9225282915923732
+2023-10-30 12:38:10 INFO  micrscopic:190 - 0.9225282915923732
+2023-10-30 12:38:10 INFO  micrscopiocTest:580 - next image is loaded successfully in Expanded patch view 
+2023-10-30 12:38:10 INFO  ScreenshotListeners:41 - 
+================:  verify Go Topreviousicon I Nexpandedpatchview :====================
+
+2023-10-30 12:38:10 INFO  micrscopiocTest:593 - previous icon is present in Expanded patch view
+2023-10-30 12:38:10 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Prev Image I Nexpandedpatchview :====================
+
+2023-10-30 12:38:16 INFO  ImgDiffPercent:49 - diff b/w images : 0.6883877548233109
+2023-10-30 12:38:16 INFO  micrscopiocTest:604 - previous image is loaded successfully in Expanded patch view
+2023-10-30 12:38:16 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Down Image I Nexpandedpatchview :====================
+
+2023-10-30 12:38:21 INFO  ImgDiffPercent:49 - diff b/w images : 0.8177455831254056
+2023-10-30 12:38:21 INFO  micrscopiocTest:615 - Bottom image is loaded successfully in Expanded patch view 
+2023-10-30 12:38:21 INFO  ScreenshotListeners:41 - 
+================:  verify Go To Up Image I Nexpandedpatchview :====================
+
+2023-10-30 12:38:26 INFO  ImgDiffPercent:49 - diff b/w images : 0.8177455831254056
+2023-10-30 12:38:26 INFO  micrscopiocTest:626 - Top image is loaded successfully in Expanded patch view 
+2023-10-30 12:38:26 INFO  ScreenshotListeners:41 - 
+================:  verifypaginationtextbox I Nexpandedpatchview :====================
+
+2023-10-30 12:38:26 INFO  micrscopiocTest:640 - paginationtextbox is present in Expanded patch view
+2023-10-30 12:38:26 INFO  ScreenshotListeners:41 - 
+================:  verifypatchnumber I Nexpandedpatchview :====================
+
+2023-10-30 12:38:28 INFO  micrscopiocTest:652 - FOV no is matching when we click on the patch
+2023-10-30 12:38:28 INFO  ScreenshotListeners:41 - 
+================:  verifythedefaultstatusofmarkallcheckboxinexpandedfov :====================
+
+2023-10-30 12:38:30 INFO  micrscopiocTest:665 - defaultstatusofmarkallcheckboxinexpandedfov is disabled 
+2023-10-30 12:38:30 INFO  ScreenshotListeners:41 - 
+================:  verifythepatchesgettingchangeinexpandedfovview :====================
+
+2023-10-30 12:38:54 INFO  ScreenshotListeners:41 - 
+================:  verifythe N O T Eon Expandedfovview :====================
+
+2023-10-30 12:38:54 INFO  micrscopiocTest:718 - Verified the NOTE on Slideoverview page
+2023-10-30 12:38:54 INFO  ScreenshotListeners:41 - 
+================:  verifytherolloverzoominexpandedfovview :====================
+
+2023-10-30 12:38:54 INFO  micrscopiocTest:727 - Successfully verified theRoll Over Zoom in expanded fov patch view
+2023-10-30 12:38:54 INFO  ScreenshotListeners:41 - 
+================:  verifyfunctionalityof R O L L O V E R Z O O M C H E C K B O Xmorethanhundredpercent :====================
+
+2023-10-30 12:39:03 INFO  ScreenshotListeners:41 - 
+================:  verify Image Size Reset In Rolloverzoom :====================
+
+2023-10-30 12:39:11 INFO  ImgDiffPercent:49 - diff b/w images : 0.6763011612869195
+2023-10-30 12:39:11 INFO  micrscopiocTest:754 - The images were reset successfully
+2023-10-30 12:39:11 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoom In F Unctionalityin Ro L L O V E R Z O O M :====================
+
+2023-10-30 12:39:16 INFO  ImgDiffPercent:49 - diff b/w images : 0.24669708698678589
+2023-10-30 12:39:16 INFO  micrscopiocTest:766 - The images were zoomed in successfully
+2023-10-30 12:39:16 INFO  ScreenshotListeners:41 - 
+================:  verifypresenceof R O L L O V E R Z O O M C H E C K B O X :====================
+
+2023-10-30 12:39:16 INFO  micrscopiocTest:778 - Successfully verified the checkbox of Roll Over Zoom
+2023-10-30 12:39:16 INFO  ScreenshotListeners:41 - 
+================:  verify Image Zoom Out In Rolloverzoom :====================
+
+2023-10-30 12:39:22 INFO  ImgDiffPercent:49 - diff b/w images : 0.24669708698678589
+2023-10-30 12:39:22 INFO  micrscopic:150 - /Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/src/test/java/com/temp/zoomout-current.png
+2023-10-30 12:39:22 INFO  micrscopic:151 - 0.24669708698678589
+2023-10-30 12:39:22 INFO  micrscopiocTest:786 - The images were zoomed out successfully
+2023-10-30 12:39:22 INFO  ScreenshotListeners:41 - 
+================:  verifytheecellsofexpandedfovinmicroscopicview :====================
+
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,Spermatozoa,
+2023-10-30 12:39:23 INFO  micrscopic:532 - RBC,WBC,Epithelial,Cast,Micro Org,Crystal,Yeast,Spermatozoa,Unclassified,
+2023-10-30 12:39:23 INFO  micrscopiocTest:796 - Succesfully verified the cells of the microscopic view in expanded patch view
+2023-10-30 12:39:23 INFO  ScreenshotListeners:41 - 
+================:  verifyclosing E X P A N D E D F O V :====================
+
+2023-10-30 12:39:26 INFO  micrscopiocTest:806 -  expanded Microscopic Image is successfully closed 

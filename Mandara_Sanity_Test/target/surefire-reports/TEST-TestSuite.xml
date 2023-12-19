@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="52.477" tests="50" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="webdriver.chrome.driver" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/chromedriver"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/test-classes:/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/classes:/Users/sunilkoli/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/sunilkoli/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/sunilkoli/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar:/Users/sunilkoli/.m2/repository/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/sunilkoli/.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/sunilkoli/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sunilkoli/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/sunilkoli/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/sunilkoli/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/sunilkoli/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/sunilkoli/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/sunilkoli/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/sunilkoli/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/sunilkoli/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/sunilkoli/.m2/repository/org/testng/testng/6.8.21/testng-6.8.21.jar:/Users/sunilkoli/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/sunilkoli/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/sunilkoli/.m2/repository/io/github/bonigarcia/webdrivermanager/5.2.1/webdrivermanager-5.2.1.jar:/Users/sunilkoli/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/sunilkoli/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/sunilkoli/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/sunilkoli/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13.jar:/Users/sunilkoli/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/sunilkoli/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3.jar:/Users/sunilkoli/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/sunilkoli/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/sunilkoli/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/sunilkoli/.m2/repository/com/opencsv/opencsv/3.3/opencsv-3.3.jar:/Users/sunilkoli/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar:/Users/sunilkoli/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/sunilkoli/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar:/Users/sunilkoli/.m2/repository/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar:/Users/sunilkoli/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/json-path/4.0.0/json-path-4.0.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.jar:/Users/sunilkoli/.m2/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar:/Users/sunilkoli/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.jar:/Users/sunilkoli/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/sunilkoli/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongo-java-driver/3.11.0/mongo-java-driver-3.11.0.jar:/Users/sunilkoli/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/sunilkoli/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/sunilkoli/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.boot.library.path" value="/Users/sunilkoli/Library/Java/JavaVirtualMachines/openjdk-19.0.1/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/surefire/surefirebooter-20231219121747406_3.jar /Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/surefire 2023-12-19T12-17-47_173-jvmRun1 surefire-20231219121747406_1tmp surefire_0-20231219121747406_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/test-classes:/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/classes:/Users/sunilkoli/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar:/Users/sunilkoli/.m2/repository/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-core/3.0/maven-core-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar:/Users/sunilkoli/.m2/repository/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/Users/sunilkoli/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar:/Users/sunilkoli/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.2.1/maven-shared-utils-3.2.1.jar:/Users/sunilkoli/.m2/repository/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar:/Users/sunilkoli/.m2/repository/org/ow2/asm/asm/6.2/asm-6.2.jar:/Users/sunilkoli/.m2/repository/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/sunilkoli/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/sunilkoli/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/sunilkoli/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/sunilkoli/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/sunilkoli/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/sunilkoli/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/sunilkoli/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/sunilkoli/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/sunilkoli/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/sunilkoli/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/sunilkoli/.m2/repository/org/testng/testng/6.8.21/testng-6.8.21.jar:/Users/sunilkoli/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/sunilkoli/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/sunilkoli/.m2/repository/io/github/bonigarcia/webdrivermanager/5.2.1/webdrivermanager-5.2.1.jar:/Users/sunilkoli/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java/3.2.13/docker-java-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-core/3.2.13/docker-java-core-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-api/3.2.13/docker-java-api-3.2.13.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/sunilkoli/.m2/repository/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar:/Users/sunilkoli/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar:/Users/sunilkoli/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.2.13/docker-java-transport-httpclient5-3.2.13.jar:/Users/sunilkoli/.m2/repository/com/github/docker-java/docker-java-transport/3.2.13/docker-java-transport-3.2.13.jar:/Users/sunilkoli/.m2/repository/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar:/Users/sunilkoli/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/sunilkoli/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.1.3/httpclient5-5.1.3.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.1.3/httpcore5-5.1.3.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.1.3/httpcore5-h2-5.1.3.jar:/Users/sunilkoli/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/sunilkoli/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/sunilkoli/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/Users/sunilkoli/.m2/repository/com/opencsv/opencsv/3.3/opencsv-3.3.jar:/Users/sunilkoli/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar:/Users/sunilkoli/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/sunilkoli/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/sunilkoli/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar:/Users/sunilkoli/.m2/repository/org/jsoup/jsoup/1.9.2/jsoup-1.9.2.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/rest-assured/4.0.0/rest-assured-4.0.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy/2.5.6/groovy-2.5.6.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy-xml/2.5.6/groovy-xml-2.5.6.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/sunilkoli/.m2/repository/org/hamcrest/hamcrest-library/2.1/hamcrest-library-2.1.jar:/Users/sunilkoli/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/json-path/4.0.0/json-path-4.0.0.jar:/Users/sunilkoli/.m2/repository/org/codehaus/groovy/groovy-json/2.5.6/groovy-json-2.5.6.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/rest-assured-common/4.0.0/rest-assured-common-4.0.0.jar:/Users/sunilkoli/.m2/repository/io/rest-assured/xml-path/4.0.0/xml-path-4.0.0.jar:/Users/sunilkoli/.m2/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar:/Users/sunilkoli/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.2.10/jaxb-osgi-2.2.10.jar:/Users/sunilkoli/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/sunilkoli/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/sunilkoli/.m2/repository/org/mongodb/mongo-java-driver/3.11.0/mongo-java-driver-3.11.0.jar:/Users/sunilkoli/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/sunilkoli/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/sunilkoli/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar:/Users/sunilkoli/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/sunilkoli"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="/Users/sunilkoli/Library/Java/JavaVirtualMachines/openjdk-19.0.1/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/target/surefire/surefirebooter-20231219121747406_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="19.0.1+10-21"/>
+    <property name="user.name" value="sunilkoli"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="13.6.3"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/sunilkoli/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/bz/1d77msw55mdd0nznv450kckr0000gp/T/"/>
+    <property name="java.version" value="19.0.1"/>
+    <property name="user.dir" value="/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/sunilkoli/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.1+10-21"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="verifySigTupleTittle[https://qa.sigtuple.com/login](1)" classname="com.Shrava.LoginTest" time="8.876">
+    <system-out><![CDATA[Launching google chrome with new profile..
+/Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/automation_report/Shrava/Shrava-19-12-1217.html
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052) on port 28384
+Only local connections are allowed.
+Dec 19, 2023 12:17:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+log4j:ERROR Could not parse file [log4.xml].
+java.io.FileNotFoundException: /Users/sunilkoli/Desktop/Shrava-Regression/Mandara_Sanity_Test/log4.xml (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:158)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:189)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:653)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:150)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:861)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:825)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:206)
+	at org.apache.log4j.xml.DOMConfigurator$1.parse(DOMConfigurator.java:749)
+	at org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:871)
+	at org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:755)
+	at org.apache.log4j.xml.DOMConfigurator.configure(DOMConfigurator.java:896)
+	at com.utilities.BrowserSetUp.initializeTestBaseSetup(BrowserSetUp.java:87)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:552)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:140)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+log4j:WARN No appenders could be found for logger (com.utilities.ScreenshotListeners).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+  </testcase>
+  <testcase name="verifyMandaraAppLoad" classname="com.Shrava.LoginTest" time="0.027"/>
+  <testcase name="visibilityOfSigtupleLogo" classname="com.Shrava.LoginTest" time="0.033"/>
+  <testcase name="visibilityOfLoginContainer" classname="com.Shrava.LoginTest" time="0.029"/>
+  <testcase name="visibilityOfUserNameField" classname="com.Shrava.LoginTest" time="0.032"/>
+  <testcase name="visibilityOfPassNameField" classname="com.Shrava.LoginTest" time="0.036"/>
+  <testcase name="visibilityOfLoginButton" classname="com.Shrava.LoginTest" time="0.054"/>
+  <testcase name="enabilityOfLoginButton" classname="com.Shrava.LoginTest" time="0.03"/>
+  <testcase name="verifyUserNameAlerttest" classname="com.Shrava.LoginTest" time="0.687"/>
+  <testcase name="verifyPasswordAlerttest" classname="com.Shrava.LoginTest" time="0.748"/>
+  <testcase name="visibilityOfForgotPasswordButton" classname="com.Shrava.LoginTest" time="0.045"/>
+  <testcase name="clickOnForgotPasswordButton" classname="com.Shrava.LoginTest" time="0.078"/>
+  <testcase name="verifyForgotPasswordPageLoaded" classname="com.Shrava.LoginTest" time="0.036"/>
+  <testcase name="visibilityOfEmailIDField" classname="com.Shrava.LoginTest" time="0.025"/>
+  <testcase name="visibilityOfBackToLoginButton" classname="com.Shrava.LoginTest" time="0.037"/>
+  <testcase name="visibilityOfReserPasswordButton" classname="com.Shrava.LoginTest" time="0.029"/>
+  <testcase name="enabilityOfReserPasswordButton" classname="com.Shrava.LoginTest" time="0.031"/>
+  <testcase name="verifyAlertforInvalideEmail" classname="com.Shrava.LoginTest" time="0.878"/>
+  <testcase name="verifyAlertforValideEmail" classname="com.Shrava.LoginTest" time="5.706">
+    <system-out><![CDATA[alert: An e-mail has been sent to santosh.budni@sigtuple.com with further instructions.
+]]></system-out>
+  </testcase>
+  <testcase name="clickonBackToLogin" classname="com.Shrava.LoginTest" time="0.742"/>
+  <testcase name="visibilityOfLoginContainer1" classname="com.Shrava.LoginTest" time="0.031"/>
+  <testcase name="verifyValidLogin[sunil_koli, Automationengineer@123](1)" classname="com.Shrava.LoginTest" time="0.384"/>
+  <testcase name="visibilityMandaraHomePage" classname="com.Shrava.LoginTest" time="1.241"/>
+  <testcase name="checkMadaraHomePage" classname="com.Shrava.MandaraHomeTest" time="0.029"/>
+  <testcase name="verifyShonitCarddetails" classname="com.Shrava.MandaraHomeTest" time="0.195">
+    <system-out><![CDATA[Pending ReportsApproved ReportsRejected Reports
+]]></system-out>
+  </testcase>
+  <testcase name="checkSigtupleIcon" classname="com.Shrava.MandaraHomeTest" time="0.03"/>
+  <testcase name="checkusericon" classname="com.Shrava.MandaraHomeTest" time="0.031"/>
+  <testcase name="numberOfProductsForUser" classname="com.Shrava.MandaraHomeTest" time="0.029"/>
+  <testcase name="availabilityOfShravaCard" classname="com.Shrava.MandaraHomeTest" time="0.03">
+    <system-out><![CDATA[Shrava 
+]]></system-out>
+  </testcase>
+  <testcase name="verifyOptionFromUserIcon" classname="com.Shrava.MandaraHomeTest" time="5.355">
+    <system-out><![CDATA[assignment_ind
+My Account
+keyboard_tab
+Logout 
+]]></system-out>
+  </testcase>
+  <testcase name="clickonListReportTest[Shrava](1)" classname="com.Shrava.ListReportTest" time="0.32"/>
+  <testcase name="visibilityOfVersionCard" classname="com.Shrava.ListReportTest" time="0.058"/>
+  <testcase name="visibilityOfPlateformVersion" classname="com.Shrava.ListReportTest" time="0.03"/>
+  <testcase name="visibilityOfProductName" classname="com.Shrava.ListReportTest" time="2.591"/>
+  <testcase name="visibilityOfSoftwareVersion" classname="com.Shrava.ListReportTest" time="0.261"/>
+  <testcase name="closeproductVersionCard" classname="com.Shrava.ListReportTest" time="0.109"/>
+  <testcase name="verifyListReportpage" classname="com.Shrava.ListReportTest" time="0.049"/>
+  <testcase name="visibilityOfHelpIcon" classname="com.Shrava.ListReportTest" time="0.034"/>
+  <testcase name="VerifyClickOnNotificationIcon" classname="com.Shrava.ListReportTest" time="0.135"/>
+  <testcase name="verifymodulname[Shrava](1)" classname="com.Shrava.ListReportTest" time="0.033"/>
+  <testcase name="verifyNotpadIcon" classname="com.Shrava.ListReportTest" time="0.024"/>
+  <testcase name="verifyfilterIcon" classname="com.Shrava.ListReportTest" time="0.026"/>
+  <testcase name="verifyrefreshicon" classname="com.Shrava.ListReportTest" time="0.024"/>
+  <testcase name="verifyOptionFromUserIconOnShonitReportPage" classname="com.Shrava.ListReportTest" time="5.787">
+    <system-out><![CDATA[assignment_ind
+My Account
+keyboard_tab
+Logout 
+]]></system-out>
+  </testcase>
+  <testcase name="verifytableheader[Shrava](1)" classname="com.Shrava.ListReportTest" time="0.172">
+    <system-out><![CDATA[PRIORITY,SAMPLE ID,DESCRIPTION,INSTALLATION,SUBMITTED BY,SUBMITTED AT,REVIEWER,STATUS,
+]]></system-out>
+  </testcase>
+  <testcase name="termsNCondTestOnShonitReportPage" classname="com.Shrava.ListReportTest" time="0.783"/>
+  <testcase name="checkpaginationeditbox" classname="com.Shrava.ListReportTest" time="0.31"/>
+  <testcase name="checkpaginationchevronicons" classname="com.Shrava.ListReportTest" time="0.038"/>
+  <testcase name="checkpaginationposition" classname="com.Shrava.ListReportTest" time="0.042"/>
+  <testcase name="verifySearchEnterText[Shrava](1)" classname="com.Shrava.ListReportTest" time="4.823"/>
+</testsuite>

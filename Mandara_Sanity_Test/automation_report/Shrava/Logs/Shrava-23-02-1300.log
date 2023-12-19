@@ -1,0 +1,305 @@
+2023-02-23 12:58:45 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2023-02-23 12:58:47 INFO  LoginTest:46 - Sigtuple title is successfully verified
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2023-02-23 12:58:47 INFO  Login:45 - mandara app is loaded
+2023-02-23 12:58:47 INFO  LoginTest:55 - Mandara App is loaded successfully in UI
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2023-02-23 12:58:47 INFO  Login:55 - sigtuple logo is loaded
+2023-02-23 12:58:47 INFO  LoginTest:62 - Sigtuple icon visible
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2023-02-23 12:58:47 INFO  Login:65 - login container is loaded
+2023-02-23 12:58:47 INFO  LoginTest:69 - Login container is visible
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2023-02-23 12:58:47 INFO  Login:76 - user name field is displayed
+2023-02-23 12:58:47 INFO  LoginTest:76 - verifyVisibilityOfUserNameField
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2023-02-23 12:58:47 INFO  Login:88 - user name field is displayed
+2023-02-23 12:58:47 INFO  LoginTest:83 - verifyVisibilityOfPassNameField
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2023-02-23 12:58:47 INFO  Login:100 - Login buttin is visible
+2023-02-23 12:58:47 INFO  LoginTest:90 - visibilityOfLoginButton
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2023-02-23 12:58:47 INFO  Login:112 - Login buttin is disabled
+2023-02-23 12:58:47 INFO  LoginTest:97 - enabilityOfLoginButton
+2023-02-23 12:58:47 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2023-02-23 12:58:48 INFO  Login:131 - user name alert Msg :Please enter your user name
+2023-02-23 12:58:48 INFO  LoginTest:104 - Alert message for Username field verified
+2023-02-23 12:58:48 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2023-02-23 12:58:48 INFO  Login:146 - password field alert Msg :Please enter your password
+2023-02-23 12:58:48 INFO  LoginTest:111 - Alert message for Password field verified
+2023-02-23 12:58:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2023-02-23 12:58:48 INFO  Login:156 - forgot pass button is displayed
+2023-02-23 12:58:48 INFO  LoginTest:119 - visibilityOfForgotPasswordButton
+2023-02-23 12:58:48 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2023-02-23 12:58:48 INFO  Login:168 - clicked on forgot pass button
+2023-02-23 12:58:48 INFO  LoginTest:127 - clickOnForgotPasswordButton
+2023-02-23 12:58:48 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2023-02-23 12:58:49 INFO  Login:179 - forgot password page loaded
+2023-02-23 12:58:49 INFO  LoginTest:135 - verifyForgotPasswordPageLoaded
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2023-02-23 12:58:49 INFO  Login:191 - Email field is displayed
+2023-02-23 12:58:49 INFO  LoginTest:142 - visibilityOfForgotPasswordButton
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2023-02-23 12:58:49 INFO  Login:202 - back to login button is displayed
+2023-02-23 12:58:49 INFO  LoginTest:149 - visibilityOfBackToLoginButton
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2023-02-23 12:58:49 INFO  Login:213 - password reset button is displayed and disabled
+2023-02-23 12:58:49 INFO  LoginTest:156 - visibilityOfReserPasswordButton
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2023-02-23 12:58:49 INFO  Login:225 - reset buttin is disabled
+2023-02-23 12:58:49 INFO  LoginTest:163 - enabilityOfReserPasswordButton
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  verify Email Field Alert Test :====================
+
+2023-02-23 12:58:49 INFO  Login:244 - Email field alert Msg :Please enter valid email id
+2023-02-23 12:58:49 INFO  LoginTest:170 - Alert message for Email field verified
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Not An Emailid :====================
+
+2023-02-23 12:58:49 INFO  Login:263 - entered text is not an email ID
+2023-02-23 12:58:49 INFO  Login:265 - Email field alert Msg :Please enter valid email id
+2023-02-23 12:58:49 INFO  LoginTest:177 - verifyAlertforInvalideEmail
+2023-02-23 12:58:49 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2023-02-23 12:58:51 INFO  Login:284 - entered text is an email ID
+2023-02-23 12:58:51 INFO  LoginTest:185 - verifyAlertforInvalideEmail
+2023-02-23 12:58:51 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2023-02-23 12:58:57 INFO  Login:310 - entered text is an email ID
+2023-02-23 12:58:57 INFO  LoginTest:193 - verifyAlertforValideEmail
+2023-02-23 12:58:57 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2023-02-23 12:58:57 INFO  Login:329 - back to login button clicked
+2023-02-23 12:58:58 INFO  LoginTest:200 - On clicking 'Back to Login' button, the user navigates to the login form window
+2023-02-23 12:58:58 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2023-02-23 12:58:58 INFO  Login:65 - login container is loaded
+2023-02-23 12:58:58 INFO  LoginTest:208 - Login container is visible
+2023-02-23 12:58:58 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2023-02-23 12:58:59 INFO  Login:403 - clicked on login button
+2023-02-23 12:58:59 INFO  LoginTest:268 - login Done successfully
+2023-02-23 12:58:59 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2023-02-23 12:59:03 INFO  Login:415 - Mandara home page is loaded
+2023-02-23 12:59:03 INFO  LoginTest:280 - Mandara home page is Loaded
+2023-02-23 12:59:03 INFO  ScreenshotListeners:41 - 
+================:  check Madara Home Page :====================
+
+2023-02-23 12:59:03 INFO  MandaraHomeTest:35 - Mandara Home Page has loaded successfully
+2023-02-23 12:59:03 INFO  ScreenshotListeners:41 - 
+================:  verify Shonit Carddetails :====================
+
+2023-02-23 12:59:06 INFO  MandaraHome:164 -  all details of this card is verified 
+2023-02-23 12:59:06 INFO  MandaraHomeTest:202 - All details on shonit card is verified 
+2023-02-23 12:59:06 INFO  ScreenshotListeners:41 - 
+================:  check Sigtuple Icon :====================
+
+2023-02-23 12:59:06 INFO  MandaraHomeTest:42 - Sigtuple mini icon on static bar is present on top left and is clickable
+2023-02-23 12:59:06 INFO  ScreenshotListeners:41 - 
+================:  checkusericon :====================
+
+2023-02-23 12:59:06 INFO  MandaraHomeTest:54 - User Icon is present on static bar is present on top right and is clickable
+2023-02-23 12:59:06 INFO  ScreenshotListeners:41 - 
+================:  number Of Products For User :====================
+
+2023-02-23 12:59:06 INFO  MandaraHomeTest:74 - Number of Products currently accessible to users is 4
+2023-02-23 12:59:06 INFO  ScreenshotListeners:41 - 
+================:  availability Of Shrava Card :====================
+
+2023-02-23 12:59:06 INFO  MandaraHomeTest:160 - Shrava product is available for current user
+2023-02-23 12:59:06 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon :====================
+
+2023-02-23 12:59:12 INFO  MandaraHomeTest:66 - All expected option are available after click on user icon
+2023-02-23 12:59:12 INFO  ScreenshotListeners:41 - 
+================:  clickon List Report Test :====================
+
+2023-02-23 12:59:12 INFO  ListReportTest:49 - Clicked on List Report Successfully to load
+2023-02-23 12:59:12 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Version Card :====================
+
+2023-02-23 12:59:12 INFO  ListReportTest:58 - about app is opened
+2023-02-23 12:59:12 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Plateform Version :====================
+
+2023-02-23 12:59:12 INFO  ListReportTest:68 - plateform version is verified
+2023-02-23 12:59:12 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Product Name :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:93 - product name is verified
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Software Version :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:102 - software version is verified
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  closeproduct Version Card :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:111 - about app is closed
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verify List Reportpage :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:122 - List Report page loaded
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Help Icon :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:76 - help icon is verified
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  Verify Click On Notification Icon :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:84 - Clicked on notification icon Successfully 
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verify Notpad Icon :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:144 - Notepad Icon is available before 'Analysis Reports' text
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verifymodulname :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:137 - Modul name contains :Shrava
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verifyfilter Icon :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:158 - Filter icon is displayed
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verifyrefreshicon :====================
+
+2023-02-23 12:59:17 INFO  ListReportTest:165 - Refresh icon is displayed
+2023-02-23 12:59:17 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon On Shonit Report Page :====================
+
+2023-02-23 12:59:23 INFO  ListReportTest:178 - All expected option are available after click on user icon
+2023-02-23 12:59:23 INFO  ScreenshotListeners:41 - 
+================:  verifytableheader :====================
+
+2023-02-23 12:59:23 INFO  ListReportTest:197 - Success: validation of list of columns in Shonit list Report PRIORITY,SAMPLE ID,DESCRIPTION,INSTALLATION,SUBMITTED BY,SUBMITTED AT,REVIEWER,STATUS,
+2023-02-23 12:59:23 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test On Shonit Report Page :====================
+
+2023-02-23 12:59:24 INFO  ListReportTest:184 - Terms of Service hyperlink is displayed
+2023-02-23 12:59:24 INFO  ListReportTest:185 - Terms of Service dialog box opened up on clicking on hyperlink
+2023-02-23 12:59:24 INFO  ListReportTest:186 - The header of the dialog box is 'Terms of Service'
+2023-02-23 12:59:24 INFO  ListReportTest:187 - Terms of Service dialog box is closed successfully
+2023-02-23 12:59:24 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationeditbox :====================
+
+2023-02-23 12:59:24 INFO  ListReportTest:204 - edit box is visible to enter page number 
+2023-02-23 12:59:24 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationchevronicons :====================
+
+2023-02-23 12:59:24 INFO  ListReportTest:218 - chevron icons are visible at the bottom of page
+2023-02-23 12:59:24 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationposition :====================
+
+2023-02-23 12:59:24 INFO  ListReportTest:211 - table page numbers are visible
+2023-02-23 12:59:24 INFO  ScreenshotListeners:41 - 
+================:  verify Search Enter Text :====================
+
+2023-02-23 12:59:29 INFO  ListReportTest:227 - Search Text passed successfully
+2023-02-23 12:59:29 INFO  ScreenshotListeners:41 - 
+================:  verify Add Assignee :====================
+
+2023-02-23 12:59:33 INFO  ListReportTest:233 - reviewer is assigned for verify the report
+2023-02-23 12:59:33 INFO  ScreenshotListeners:41 - 
+================:  searchsample I D :====================
+
+2023-02-23 12:59:43 INFO  ReportPageTest:49 - sample is searched for get the reprot for page
+2023-02-23 12:59:43 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Disclaimer :====================
+
+2023-02-23 12:59:46 INFO  ReportPageTest:56 - Sample id is verified successfully Disclaimer :  This report is meant for review and subsequent approval from a certified pathologist. Under no circumstances shall this report be provided to the patient without the approval from a certified pathologist.
+2023-02-23 12:59:46 INFO  ScreenshotListeners:41 - 
+================:  verify Slide I D :====================
+
+2023-02-23 12:59:49 INFO  ReportPageTest:65 - Sample id is verified successfully Sample ID: DEMO1
+2023-02-23 12:59:49 INFO  ScreenshotListeners:41 - 
+================:  verifyslide Detail At Report Page :====================
+
+2023-02-23 12:59:53 INFO  ReportPageTest:82 - details are verifiedDescription:Submitted By:Product Version:Cartridge ID:Chamber No:Submitted At:
+2023-02-23 12:59:53 INFO  ScreenshotListeners:41 - 
+================:  verify Header On Report Page :====================
+
+2023-02-23 12:59:53 INFO  ReportPageTest:94 -  expected header is present on report page
+2023-02-23 12:59:53 INFO  ScreenshotListeners:41 - 
+================:  verifyurine Report Header :====================
+
+2023-02-23 12:59:53 INFO  ReportPageTest:102 -  expected urine  header is present on report page
+2023-02-23 12:59:53 INFO  ScreenshotListeners:41 - 
+================:  verify All Reports Name :====================
+
+2023-02-23 12:59:53 INFO  ReportPageTest:110 - expected reports types are present on report page
+2023-02-23 12:59:53 INFO  ScreenshotListeners:41 - 
+================:  verifying Original Report :====================
+
+2023-02-23 12:59:53 INFO  ReportPageTest:121 - original repport is visible on report page
+2023-02-23 12:59:53 INFO  ScreenshotListeners:41 - 
+================:  verify Download Report :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:128 -  xls report format is present on downloads at report page 
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Report Page :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:158 - Report page is opened successfully 
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verifyfalge With Colour Code :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:184 - reassiged reviewer detail is verified on summary pagex Normalx Abnormalx Reference
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Approve Button :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:190 - Approve and reject buttons are presentdone Approve
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Reject Button :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:197 - Approve and reject buttons are presentclose Reject
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Detected And Nondetected Note :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:204 - Detected and non detected note is present D - DetectedND - Not Detected
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Presence Of Edit Button :====================
+
+2023-02-23 12:59:56 INFO  ReportPageTest:211 - edit button is presentedit
+Edit
+2023-02-23 12:59:56 INFO  ScreenshotListeners:41 - 
+================:  verify Exand Thepatch :====================
+

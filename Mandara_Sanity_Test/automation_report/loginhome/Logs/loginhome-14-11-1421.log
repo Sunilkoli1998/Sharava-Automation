@@ -1,0 +1,432 @@
+2022-11-14 14:17:46 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2022-11-14 14:17:48 INFO  LoginTest:45 - Sigtuple title is successfully verified
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2022-11-14 14:17:48 INFO  Login:47 - mandara app is loaded
+2022-11-14 14:17:48 INFO  LoginTest:54 - Mandara App is loaded successfully in UI
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2022-11-14 14:17:48 INFO  Login:57 - sigtuple logo is loaded
+2022-11-14 14:17:48 INFO  LoginTest:61 - Sigtuple icon visible
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2022-11-14 14:17:48 INFO  Login:67 - login container is loaded
+2022-11-14 14:17:48 INFO  LoginTest:68 - Login container is visible
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2022-11-14 14:17:48 INFO  Login:78 - user name field is displayed
+2022-11-14 14:17:48 INFO  LoginTest:75 - verifyVisibilityOfUserNameField
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2022-11-14 14:17:48 INFO  Login:90 - user name field is displayed
+2022-11-14 14:17:48 INFO  LoginTest:82 - verifyVisibilityOfPassNameField
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2022-11-14 14:17:48 INFO  Login:102 - Login buttin is visible
+2022-11-14 14:17:48 INFO  LoginTest:89 - visibilityOfLoginButton
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2022-11-14 14:17:48 INFO  Login:114 - Login buttin is disabled
+2022-11-14 14:17:48 INFO  LoginTest:96 - enabilityOfLoginButton
+2022-11-14 14:17:48 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2022-11-14 14:17:50 INFO  Login:133 - user name alert Msg :Please enter your user name
+2022-11-14 14:17:50 INFO  LoginTest:103 - Alert message for Username field verified
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2022-11-14 14:17:50 INFO  Login:148 - password field alert Msg :Please enter your password
+2022-11-14 14:17:50 INFO  LoginTest:110 - Alert message for Password field verified
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2022-11-14 14:17:50 INFO  Login:158 - forgot pass button is displayed
+2022-11-14 14:17:50 INFO  LoginTest:118 - visibilityOfForgotPasswordButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2022-11-14 14:17:50 INFO  Login:170 - clicked on forgot pass button
+2022-11-14 14:17:50 INFO  LoginTest:126 - clickOnForgotPasswordButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2022-11-14 14:17:50 INFO  Login:181 - forgot password page loaded
+2022-11-14 14:17:50 INFO  LoginTest:134 - verifyForgotPasswordPageLoaded
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2022-11-14 14:17:50 INFO  Login:193 - Email field is displayed
+2022-11-14 14:17:50 INFO  LoginTest:141 - visibilityOfForgotPasswordButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2022-11-14 14:17:50 INFO  Login:204 - back to login button is displayed
+2022-11-14 14:17:50 INFO  LoginTest:148 - visibilityOfBackToLoginButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2022-11-14 14:17:50 INFO  Login:215 - password reset button is displayed and disabled
+2022-11-14 14:17:50 INFO  LoginTest:155 - visibilityOfReserPasswordButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2022-11-14 14:17:50 INFO  Login:227 - reset buttin is disabled
+2022-11-14 14:17:50 INFO  LoginTest:162 - enabilityOfReserPasswordButton
+2022-11-14 14:17:50 INFO  ScreenshotListeners:41 - 
+================:  verify Email Field Alert Test :====================
+
+2022-11-14 14:17:51 INFO  Login:246 - Email field alert Msg :Please enter valid email id
+2022-11-14 14:17:51 INFO  LoginTest:169 - Alert message for Email field verified
+2022-11-14 14:17:51 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Not An Emailid :====================
+
+2022-11-14 14:17:51 INFO  Login:265 - entered text is not an email ID
+2022-11-14 14:17:51 INFO  Login:267 - Email field alert Msg :Please enter valid email id
+2022-11-14 14:17:51 INFO  LoginTest:176 - verifyAlertforInvalideEmail
+2022-11-14 14:17:51 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2022-11-14 14:17:52 INFO  Login:286 - entered text is an email ID
+2022-11-14 14:17:52 INFO  LoginTest:184 - verifyAlertforInvalideEmail
+2022-11-14 14:17:52 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2022-11-14 14:17:58 INFO  Login:312 - entered text is an email ID
+2022-11-14 14:17:59 INFO  LoginTest:192 - verifyAlertforValideEmail
+2022-11-14 14:17:59 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2022-11-14 14:17:59 INFO  Login:331 - back to login button clicked
+2022-11-14 14:18:00 INFO  LoginTest:199 - On clicking 'Back to Login' button, the user navigates to the login form window
+2022-11-14 14:18:00 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2022-11-14 14:18:00 INFO  Login:67 - login container is loaded
+2022-11-14 14:18:00 INFO  LoginTest:207 - Login container is visible
+2022-11-14 14:18:00 INFO  ScreenshotListeners:41 - 
+================:  verify Copyright On Login Page :====================
+
+2022-11-14 14:18:00 INFO  Login:348 - copyright text : Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-14 14:18:00 INFO  LoginTest:218 - Copy right info is displayed to users on Login Page Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-14 14:18:00 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2022-11-14 14:18:00 INFO  Login:405 - clicked on login button
+2022-11-14 14:18:00 INFO  LoginTest:267 - login Done successfully
+2022-11-14 14:18:00 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2022-11-14 14:18:04 INFO  Login:417 - Mandara home page is loaded
+2022-11-14 14:18:04 INFO  LoginTest:279 - Mandara home page is Loaded
+2022-11-14 14:18:04 INFO  ScreenshotListeners:41 - 
+================:  check Madara Home Page :====================
+
+2022-11-14 14:18:04 INFO  MandaraHomeTest:34 - Mandara Home Page has loaded successfully
+2022-11-14 14:18:04 INFO  ScreenshotListeners:41 - 
+================:  check Sigtuple Icon :====================
+
+2022-11-14 14:18:04 INFO  MandaraHomeTest:41 - Sigtuple mini icon on static bar is present on top left and is clickable
+2022-11-14 14:18:04 INFO  ScreenshotListeners:41 - 
+================:  checkusericon :====================
+
+2022-11-14 14:18:05 INFO  MandaraHomeTest:53 - User Icon is present on static bar is present on top right and is clickable
+2022-11-14 14:18:05 INFO  ScreenshotListeners:41 - 
+================:  number Of Products For User :====================
+
+2022-11-14 14:18:05 INFO  MandaraHomeTest:73 - Number of Products currently accessible to users is 4
+2022-11-14 14:18:05 INFO  ScreenshotListeners:41 - 
+================:  copyright Test :====================
+
+2022-11-14 14:18:05 INFO  MandaraHomeTest:83 - Copyright info is not identified
+2022-11-14 14:18:05 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test :====================
+
+2022-11-14 14:18:05 INFO  MandaraHomeTest:90 - Terms of Service hyperlink is displayed
+2022-11-14 14:18:05 INFO  MandaraHomeTest:91 - Terms of Service dialog box opened up on clicking on hyperlink
+2022-11-14 14:18:05 INFO  MandaraHomeTest:92 - The header of the dialog box is 'Terms of Service'
+2022-11-14 14:18:05 INFO  MandaraHomeTest:93 - Terms of Service dialog box is closed successfully
+2022-11-14 14:18:05 INFO  ScreenshotListeners:41 - 
+================:  privacy Policy :====================
+
+2022-11-14 14:18:10 INFO  MandaraHomeTest:100 - Privacy policy window opened on the text browser tab
+2022-11-14 14:18:10 INFO  MandaraHomeTest:106 - The Privacy policy document is closed
+2022-11-14 14:18:10 INFO  ScreenshotListeners:41 - 
+================:  availability Of Shonit Card :====================
+
+2022-11-14 14:18:10 INFO  MandaraHomeTest:159 - Shonit product is available for current user
+2022-11-14 14:18:10 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon :====================
+
+2022-11-14 14:18:16 INFO  MandaraHomeTest:65 - All expected option are available after click on user icon
+2022-11-14 14:18:16 INFO  ScreenshotListeners:41 - 
+================:  verify Shonit Carddetails :====================
+
+2022-11-14 14:18:17 INFO  MandaraHome:168 -  all details of this card is verified 
+2022-11-14 14:18:17 INFO  MandaraHomeTest:201 - All details on shonit card is verified 
+2022-11-14 14:18:17 INFO  ScreenshotListeners:41 - 
+================:  clickon List Report Test :====================
+
+2022-11-14 14:18:17 INFO  ListReportTest:47 - Clicked on List Report Successfully to load
+2022-11-14 14:18:17 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Version Card :====================
+
+2022-11-14 14:18:17 INFO  ListReportTest:56 - about app is opened
+2022-11-14 14:18:17 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Plateform Version :====================
+
+2022-11-14 14:18:17 INFO  ListReportTest:66 - plateform version is verified
+2022-11-14 14:18:17 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Product Name :====================
+
+2022-11-14 14:18:18 INFO  ListReportTest:91 - product name is verified
+2022-11-14 14:18:18 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Software Version :====================
+
+2022-11-14 14:18:18 INFO  ListReportTest:100 - software version is verified
+2022-11-14 14:18:18 INFO  ScreenshotListeners:41 - 
+================:  closeproduct Version Card :====================
+
+2022-11-14 14:18:19 INFO  ListReportTest:109 - about app is closed
+2022-11-14 14:18:19 INFO  ScreenshotListeners:41 - 
+================:  verify List Reportpage :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:120 - List Report page loaded
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Help Icon :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:74 - help icon is verified
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  Verify Click On Notification Icon :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:82 - Clicked on notification icon Successfully 
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verify Visibilioty O Flag Colour :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:131 -  automatically flag colour is verified
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verify Notpad Icon :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:153 - Notepad Icon is available before 'Analysis Reports' text
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verifymodulname :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:146 - Modul name contains :Shonit
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verifysearch Field :====================
+
+2022-11-14 14:18:22 ERROR BrowserSetUp:156 - verifysearchField -> FAILED due to below issues :
+java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+
+2022-11-14 14:18:22 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/verifysearchField.png
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verifyfilter Icon :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:167 - Filter icon is displayed
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verifyrefreshicon :====================
+
+2022-11-14 14:18:22 INFO  ListReportTest:174 - Refresh icon is displayed
+2022-11-14 14:18:22 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon On Shonit Report Page :====================
+
+2022-11-14 14:18:28 INFO  ListReportTest:187 - All expected option are available after click on user icon
+2022-11-14 14:18:28 INFO  ScreenshotListeners:41 - 
+================:  verifytableheader :====================
+
+2022-11-14 14:18:28 INFO  ListReportTest:208 - Success: validation of list of columns in Shonit list Report ,PRIORITY,FLAG
+  filter_alt,SLIDE ID,DESCRIPTION,INSTALLATION,SUBMITTED BY,SUBMITTED AT,REVIEWER,STATUS,FLAGGED ON
+  filter_alt,
+2022-11-14 14:18:28 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test On Shonit Report Page :====================
+
+2022-11-14 14:18:28 INFO  ListReportTest:193 - Terms of Service hyperlink is displayed
+2022-11-14 14:18:28 INFO  ListReportTest:194 - Terms of Service dialog box opened up on clicking on hyperlink
+2022-11-14 14:18:28 INFO  ListReportTest:195 - The header of the dialog box is 'Terms of Service'
+2022-11-14 14:18:28 INFO  ListReportTest:196 - Terms of Service dialog box is closed successfully
+2022-11-14 14:18:28 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationeditbox :====================
+
+2022-11-14 14:18:29 INFO  ListReportTest:215 - edit box is visible to enter page number 
+2022-11-14 14:18:29 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationchevronicons :====================
+
+2022-11-14 14:18:29 INFO  ListReportTest:229 - chevron icons are visible at the bottom of page
+2022-11-14 14:18:29 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationposition :====================
+
+2022-11-14 14:18:29 INFO  ListReportTest:222 - table page numbers are visible
+2022-11-14 14:18:29 INFO  ScreenshotListeners:41 - 
+================:  verify Search Enter Text :====================
+
+2022-11-14 14:18:33 INFO  ListReportTest:295 - Search Text passed successfully
+2022-11-14 14:18:33 INFO  ScreenshotListeners:41 - 
+================:  verify Add Assignee :====================
+
+2022-11-14 14:18:36 INFO  ListReportTest:301 - reviewer is assigned for verify the report
+2022-11-14 14:18:36 INFO  ScreenshotListeners:41 - 
+================:  verify Searchdata :====================
+
+2022-11-14 14:19:11 ERROR BrowserSetUp:156 - verifySearchdata -> FAILED due to below issues :
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //tbody//tr (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:19:12 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/verifySearchdata.png
+2022-11-14 14:19:12 INFO  ScreenshotListeners:41 - 
+================:  searchfilter Present Test :====================
+
+2022-11-14 14:19:12 INFO  SearchFilterTest:36 - Search filter is enabled
+2022-11-14 14:19:12 INFO  ScreenshotListeners:41 - 
+================:  open Filterbox Test :====================
+
+2022-11-14 14:19:15 INFO  SearchFilterTest:44 - Search modal window is opened successfully
+2022-11-14 14:19:15 INFO  ScreenshotListeners:41 - 
+================:  default Field Values Test :====================
+
+2022-11-14 14:19:15 INFO  SearchFilterTest:53 - All fields are present and set to their default value
+2022-11-14 14:19:15 INFO  ScreenshotListeners:41 - 
+================:  default Field Name Test :====================
+
+2022-11-14 14:19:15 ERROR BrowserSetUp:156 - defaultFieldNameTest -> FAILED due to below issues :
+java.lang.NullPointerException
+
+2022-11-14 14:19:15 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/defaultFieldNameTest.png
+2022-11-14 14:19:15 INFO  ScreenshotListeners:41 - 
+================:  default Date Field Test :====================
+
+2022-11-14 14:19:35 INFO  SearchFilterTest:76 - Fields needs to be reset back
+2022-11-14 14:19:35 INFO  ScreenshotListeners:41 - 
+================:  modalfooter Test :====================
+
+2022-11-14 14:19:36 INFO  SearchFilterTest:92 - Cancel, Reset and Apply buttons are enabled to be clicked.
+2022-11-14 14:19:36 INFO  ScreenshotListeners:41 - 
+================:  click Reset :====================
+
+2022-11-14 14:19:46 INFO  SearchFilterTest:103 - All fields are set to default values again
+2022-11-14 14:19:46 INFO  ScreenshotListeners:41 - 
+================:  click Cancel Test :====================
+
+2022-11-14 14:19:46 INFO  SearchFilterTest:115 - On clicking Cancel button, the screen gets redirected to the List Page by default
+2022-11-14 14:19:46 INFO  ScreenshotListeners:41 - 
+================:  click Apply Test :====================
+
+2022-11-14 14:19:49 INFO  SearchFilterTest:124 - On clicking Apply button, the screen gets redirected to the List Page by default
+2022-11-14 14:19:49 INFO  ScreenshotListeners:41 - 
+================:  select By Installation Name Test :====================
+
+2022-11-14 14:20:15 ERROR BrowserSetUp:156 - selectByInstallationNameTest -> FAILED due to below issues :
+java.lang.AssertionError: expected [true] but found [false]
+
+2022-11-14 14:20:15 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectByInstallationNameTest.png
+2022-11-14 14:20:15 INFO  ScreenshotListeners:41 - 
+================:  select By Reviewer Test :====================
+
+2022-11-14 14:20:16 ERROR BrowserSetUp:156 - selectByReviewerTest -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c10="" class="material-icons pointer color-hover filter-applied" title="Filter">...</i> is not clickable at point (1300, 167). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:20:16 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectByReviewerTest.png
+2022-11-14 14:20:16 INFO  ScreenshotListeners:41 - 
+================:  select By Review Status For Approve Test :====================
+
+2022-11-14 14:20:18 ERROR BrowserSetUp:156 - selectByReviewStatusForApproveTest -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c10="" class="material-icons pointer color-hover filter-applied" title="Filter">...</i> is not clickable at point (1300, 167). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:20:18 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectByReviewStatusForApproveTest.png
+2022-11-14 14:20:18 INFO  ScreenshotListeners:41 - 
+================:  verify Filter Result Consistency Test :====================
+
+2022-11-14 14:20:20 ERROR BrowserSetUp:156 - verifyFilterResultConsistencyTest -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c10="" class="material-icons pointer color-hover filter-applied" title="Filter">...</i> is not clickable at point (1300, 167). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:20:20 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/verifyFilterResultConsistencyTest.png
+2022-11-14 14:20:20 INFO  ScreenshotListeners:41 - 
+================:  verify Filter Data Test :====================
+
+2022-11-14 14:20:24 INFO  SearchFilter:1308 - Refreshing the page as the Filter got stuck in between the test.
+2022-11-14 14:20:24 INFO  SearchFilterTest:220 - Applied Filter Values staying same after opening the Filter again. 
+2022-11-14 14:20:24 INFO  ScreenshotListeners:41 - 
+================:  select By Review Status For Reject Test :====================
+
+2022-11-14 14:20:26 ERROR BrowserSetUp:156 - selectByReviewStatusForRejectTest -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c15="" class="material-icons pointer color-hover disabled filter-applied" title="Filter">...</i> is not clickable at point (1300, 167). Other element would receive the click: <div _ngcontent-c15="" class="filter-section search-input-field" fxflex="7" fxflex.xs="100" fxlayoutalign="end center" style="place-content: center flex-end; align-items: center; flex-direction: row; box-sizing: border-box; display: flex; flex: 1 1 100%; max-width: 7%;">...</div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:20:26 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectByReviewStatusForRejectTest.png
+2022-11-14 14:20:26 INFO  ScreenshotListeners:41 - 
+================:  select Unassigned Review Test :====================
+
+2022-11-14 14:20:52 INFO  SearchFilterTest:253 - The search is successful for selected branch and Unassigned Status
+2022-11-14 14:20:52 INFO  ScreenshotListeners:41 - 
+================:  select Assigned Review Test :====================
+
+2022-11-14 14:21:17 INFO  SearchFilterTest:277 - The search is successful for selected branch and assigned Status
+2022-11-14 14:21:17 INFO  ScreenshotListeners:41 - 
+================:  select Filters For Reviewer And Status Test :====================
+
+2022-11-14 14:21:29 ERROR BrowserSetUp:156 - selectFiltersForReviewerAndStatusTest -> FAILED due to below issues :
+java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+
+2022-11-14 14:21:30 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectFiltersForReviewerAndStatusTest.png
+2022-11-14 14:21:30 INFO  ScreenshotListeners:41 - 
+================:  apply Multiple Filters Test :====================
+
+2022-11-14 14:21:31 INFO  SearchFilterTest:327 - The search is successful for multiple filters
+2022-11-14 14:21:31 INFO  ScreenshotListeners:41 - 
+================:  select By Date Filter Test :====================
+
+2022-11-14 14:21:31 ERROR BrowserSetUp:156 - selectByDateFilterTest -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c15="" class="material-icons pointer color-hover" title="Filter">...</i> is not clickable at point (1303, 166). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:82f:743c:22ea:af69%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60853}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: 08498ec5a8752af29662ea6892e5c04f
+
+2022-11-14 14:21:31 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/selectByDateFilterTest.png

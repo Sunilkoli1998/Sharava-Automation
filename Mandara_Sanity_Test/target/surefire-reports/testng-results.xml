@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="50" passed="50" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T06:47:53Z" name="Shonit" finished-at="2023-12-19T06:48:34Z" duration-ms="41244">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T06:47:53Z" name="Mandara_Test" finished-at="2023-12-19T06:48:34Z" duration-ms="41244">
+      <class name="com.Shrava.MandaraHomeTest">
+        <test-method signature="checkMadaraHomePage()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="checkMadaraHomePage" finished-at="2023-12-19T12:18:13Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMadaraHomePage -->
+        <test-method signature="verifyShonitCarddetails()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="verifyShonitCarddetails" finished-at="2023-12-19T12:18:13Z" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShonitCarddetails -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkMadaraHomePage status=SUCCESS method=MandaraHomeTest.checkMadaraHomePage()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyShonitCarddetails status=SUCCESS method=MandaraHomeTest.verifyShonitCarddetails()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="checkSigtupleIcon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="checkSigtupleIcon" finished-at="2023-12-19T12:18:13Z" depends-on-methods="com.Shrava.MandaraHomeTest.checkMadaraHomePage" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSigtupleIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkSigtupleIcon status=SUCCESS method=MandaraHomeTest.checkSigtupleIcon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="checkusericon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="checkusericon" finished-at="2023-12-19T12:18:13Z" depends-on-methods="com.Shrava.MandaraHomeTest.checkMadaraHomePage" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkusericon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkusericon status=SUCCESS method=MandaraHomeTest.checkusericon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="numberOfProductsForUser()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="numberOfProductsForUser" finished-at="2023-12-19T12:18:13Z" depends-on-methods="com.Shrava.MandaraHomeTest.checkMadaraHomePage" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfProductsForUser -->
+        <test-method signature="availabilityOfShravaCard()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="availabilityOfShravaCard" finished-at="2023-12-19T12:18:13Z" depends-on-methods="com.Shrava.MandaraHomeTest.checkMadaraHomePage" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- availabilityOfShravaCard -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=numberOfProductsForUser status=SUCCESS method=MandaraHomeTest.numberOfProductsForUser()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=availabilityOfShravaCard status=SUCCESS method=MandaraHomeTest.availabilityOfShravaCard()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyOptionFromUserIcon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:13Z" name="verifyOptionFromUserIcon" finished-at="2023-12-19T12:18:18Z" depends-on-methods="com.Shrava.MandaraHomeTest.checkusericon" duration-ms="5354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOptionFromUserIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:18:18Z" name="getResult" finished-at="2023-12-19T12:18:18Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOptionFromUserIcon status=SUCCESS method=MandaraHomeTest.verifyOptionFromUserIcon()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.Shrava.MandaraHomeTest -->
+      <class name="com.Shrava.ListReportTest">
+        <test-method signature="clickonListReportTest(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:18Z" name="clickonListReportTest" finished-at="2023-12-19T12:18:19Z" duration-ms="319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonListReportTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="getResult" finished-at="2023-12-19T12:18:19Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonListReportTest status=SUCCESS method=ListReportTest.clickonListReportTest(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfVersionCard()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="visibilityOfVersionCard" finished-at="2023-12-19T12:18:19Z" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfVersionCard -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="getResult" finished-at="2023-12-19T12:18:19Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfVersionCard status=SUCCESS method=ListReportTest.visibilityOfVersionCard()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfPlateformVersion()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="visibilityOfPlateformVersion" finished-at="2023-12-19T12:18:19Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfPlateformVersion -->
+        <test-method signature="visibilityOfProductName()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="visibilityOfProductName" finished-at="2023-12-19T12:18:21Z" duration-ms="2591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfProductName -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:19Z" name="getResult" finished-at="2023-12-19T12:18:19Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfPlateformVersion status=SUCCESS method=ListReportTest.visibilityOfPlateformVersion()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:21Z" name="getResult" finished-at="2023-12-19T12:18:21Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfProductName status=SUCCESS method=ListReportTest.visibilityOfProductName()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfSoftwareVersion()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:21Z" name="visibilityOfSoftwareVersion" finished-at="2023-12-19T12:18:22Z" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfSoftwareVersion -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfSoftwareVersion status=SUCCESS method=ListReportTest.visibilityOfSoftwareVersion()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="closeproductVersionCard()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="closeproductVersionCard" finished-at="2023-12-19T12:18:22Z" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeproductVersionCard -->
+        <test-method signature="verifyListReportpage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifyListReportpage" finished-at="2023-12-19T12:18:22Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyListReportpage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=closeproductVersionCard status=SUCCESS method=ListReportTest.closeproductVersionCard()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfHelpIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="visibilityOfHelpIcon" finished-at="2023-12-19T12:18:22Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfHelpIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyListReportpage status=SUCCESS method=ListReportTest.verifyListReportpage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="VerifyClickOnNotificationIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="VerifyClickOnNotificationIcon" finished-at="2023-12-19T12:18:22Z" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyClickOnNotificationIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfHelpIcon status=SUCCESS method=ListReportTest.visibilityOfHelpIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyClickOnNotificationIcon status=SUCCESS method=ListReportTest.VerifyClickOnNotificationIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifymodulname(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifymodulname" finished-at="2023-12-19T12:18:22Z" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymodulname -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifymodulname status=SUCCESS method=ListReportTest.verifymodulname(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyNotpadIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifyNotpadIcon" finished-at="2023-12-19T12:18:22Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNotpadIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNotpadIcon status=SUCCESS method=ListReportTest.verifyNotpadIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyfilterIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifyfilterIcon" finished-at="2023-12-19T12:18:22Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfilterIcon -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyfilterIcon status=SUCCESS method=ListReportTest.verifyfilterIcon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyrefreshicon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifyrefreshicon" finished-at="2023-12-19T12:18:22Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyrefreshicon -->
+        <test-method signature="verifyOptionFromUserIconOnShonitReportPage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="verifyOptionFromUserIconOnShonitReportPage" finished-at="2023-12-19T12:18:28Z" duration-ms="5786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOptionFromUserIconOnShonitReportPage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:22Z" name="getResult" finished-at="2023-12-19T12:18:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyrefreshicon status=SUCCESS method=ListReportTest.verifyrefreshicon()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:28Z" name="getResult" finished-at="2023-12-19T12:18:28Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOptionFromUserIconOnShonitReportPage status=SUCCESS method=ListReportTest.verifyOptionFromUserIconOnShonitReportPage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifytableheader(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:28Z" name="verifytableheader" finished-at="2023-12-19T12:18:28Z" duration-ms="172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytableheader -->
+        <test-method signature="termsNCondTestOnShonitReportPage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:28Z" name="termsNCondTestOnShonitReportPage" finished-at="2023-12-19T12:18:29Z" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termsNCondTestOnShonitReportPage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:28Z" name="getResult" finished-at="2023-12-19T12:18:28Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifytableheader status=SUCCESS method=ListReportTest.verifytableheader(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="getResult" finished-at="2023-12-19T12:18:29Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=termsNCondTestOnShonitReportPage status=SUCCESS method=ListReportTest.termsNCondTestOnShonitReportPage()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="checkpaginationeditbox()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="checkpaginationeditbox" finished-at="2023-12-19T12:18:29Z" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpaginationeditbox -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="getResult" finished-at="2023-12-19T12:18:29Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkpaginationeditbox status=SUCCESS method=ListReportTest.checkpaginationeditbox()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="checkpaginationchevronicons()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="checkpaginationchevronicons" finished-at="2023-12-19T12:18:29Z" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpaginationchevronicons -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="getResult" finished-at="2023-12-19T12:18:29Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkpaginationchevronicons status=SUCCESS method=ListReportTest.checkpaginationchevronicons()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="checkpaginationposition()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="checkpaginationposition" finished-at="2023-12-19T12:18:29Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpaginationposition -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="getResult" finished-at="2023-12-19T12:18:29Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkpaginationposition status=SUCCESS method=ListReportTest.checkpaginationposition()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifySearchEnterText(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:29Z" name="verifySearchEnterText" finished-at="2023-12-19T12:18:34Z" duration-ms="4822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchEnterText -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:18:34Z" name="getResult" finished-at="2023-12-19T12:18:34Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySearchEnterText status=SUCCESS method=ListReportTest.verifySearchEnterText(java.lang.String)[pri:0, instance:com.Shrava.ListReportTest@fdefd3f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.Shrava.ListReportTest -->
+      <class name="com.Shrava.LoginTest">
+        <test-method is-config="true" signature="initializeTestBaseSetup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:17:48Z" name="initializeTestBaseSetup" finished-at="2023-12-19T12:17:53Z" duration-ms="4773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qa.sigtuple.com/login]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shrava.MandaraHomeTest@d83da2e]" started-at="2023-12-19T12:17:53Z" name="setUp" finished-at="2023-12-19T12:17:53Z" depends-on-methods="com.utilities.BrowserSetUp.initializeTestBaseSetup" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shrava.ListReportTest@fdefd3f]" started-at="2023-12-19T12:17:53Z" name="setUp" finished-at="2023-12-19T12:17:53Z" depends-on-methods="com.Shrava.MandaraHomeTest.setUp, com.utilities.BrowserSetUp.initializeTestBaseSetup" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:17:53Z" name="setUp" finished-at="2023-12-19T12:17:53Z" depends-on-methods="com.Shrava.ListReportTest.setUp, com.Shrava.MandaraHomeTest.setUp, com.utilities.BrowserSetUp.initializeTestBaseSetup" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySigTupleTittle(java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:17:53Z" name="verifySigTupleTittle" finished-at="2023-12-19T12:18:02Z" duration-ms="8875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://qa.sigtuple.com/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySigTupleTittle -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySigTupleTittle status=SUCCESS method=LoginTest.verifySigTupleTittle(java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyMandaraAppLoad()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="verifyMandaraAppLoad" finished-at="2023-12-19T12:18:02Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMandaraAppLoad -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMandaraAppLoad status=SUCCESS method=LoginTest.verifyMandaraAppLoad()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfSigtupleLogo()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="visibilityOfSigtupleLogo" finished-at="2023-12-19T12:18:02Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfSigtupleLogo -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfSigtupleLogo status=SUCCESS method=LoginTest.visibilityOfSigtupleLogo()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfLoginContainer()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="visibilityOfLoginContainer" finished-at="2023-12-19T12:18:02Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfLoginContainer -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfLoginContainer status=SUCCESS method=LoginTest.visibilityOfLoginContainer()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfUserNameField()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="visibilityOfUserNameField" finished-at="2023-12-19T12:18:02Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfUserNameField -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfUserNameField status=SUCCESS method=LoginTest.visibilityOfUserNameField()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfPassNameField()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="visibilityOfPassNameField" finished-at="2023-12-19T12:18:02Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfPassNameField -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfPassNameField status=SUCCESS method=LoginTest.visibilityOfPassNameField()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="visibilityOfLoginButton" finished-at="2023-12-19T12:18:02Z" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfLoginButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfLoginButton status=SUCCESS method=LoginTest.visibilityOfLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="enabilityOfLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="enabilityOfLoginButton" finished-at="2023-12-19T12:18:02Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enabilityOfLoginButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="getResult" finished-at="2023-12-19T12:18:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enabilityOfLoginButton status=SUCCESS method=LoginTest.enabilityOfLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyUserNameAlerttest()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:02Z" name="verifyUserNameAlerttest" finished-at="2023-12-19T12:18:03Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameAlerttest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="getResult" finished-at="2023-12-19T12:18:03Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserNameAlerttest status=SUCCESS method=LoginTest.verifyUserNameAlerttest()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyPasswordAlerttest()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="verifyPasswordAlerttest" finished-at="2023-12-19T12:18:03Z" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPasswordAlerttest -->
+        <test-method signature="visibilityOfForgotPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="visibilityOfForgotPasswordButton" finished-at="2023-12-19T12:18:03Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfForgotPasswordButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="getResult" finished-at="2023-12-19T12:18:03Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPasswordAlerttest status=SUCCESS method=LoginTest.verifyPasswordAlerttest()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="getResult" finished-at="2023-12-19T12:18:03Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfForgotPasswordButton status=SUCCESS method=LoginTest.visibilityOfForgotPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="clickOnForgotPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="clickOnForgotPasswordButton" finished-at="2023-12-19T12:18:03Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnForgotPasswordButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="getResult" finished-at="2023-12-19T12:18:03Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnForgotPasswordButton status=SUCCESS method=LoginTest.clickOnForgotPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyForgotPasswordPageLoaded()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="verifyForgotPasswordPageLoaded" finished-at="2023-12-19T12:18:03Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordPageLoaded -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="getResult" finished-at="2023-12-19T12:18:03Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordPageLoaded status=SUCCESS method=LoginTest.verifyForgotPasswordPageLoaded()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfEmailIDField()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:03Z" name="visibilityOfEmailIDField" finished-at="2023-12-19T12:18:04Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfEmailIDField -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="getResult" finished-at="2023-12-19T12:18:04Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfEmailIDField status=SUCCESS method=LoginTest.visibilityOfEmailIDField()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfBackToLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="visibilityOfBackToLoginButton" finished-at="2023-12-19T12:18:04Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfBackToLoginButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="getResult" finished-at="2023-12-19T12:18:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfBackToLoginButton status=SUCCESS method=LoginTest.visibilityOfBackToLoginButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfReserPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="visibilityOfReserPasswordButton" finished-at="2023-12-19T12:18:04Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfReserPasswordButton -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="getResult" finished-at="2023-12-19T12:18:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfReserPasswordButton status=SUCCESS method=LoginTest.visibilityOfReserPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="enabilityOfReserPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="enabilityOfReserPasswordButton" finished-at="2023-12-19T12:18:04Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enabilityOfReserPasswordButton -->
+        <test-method signature="verifyAlertforInvalideEmail()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="verifyAlertforInvalideEmail" finished-at="2023-12-19T12:18:05Z" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertforInvalideEmail -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:04Z" name="getResult" finished-at="2023-12-19T12:18:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enabilityOfReserPasswordButton status=SUCCESS method=LoginTest.enabilityOfReserPasswordButton()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyAlertforValideEmail()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:05Z" name="verifyAlertforValideEmail" finished-at="2023-12-19T12:18:10Z" duration-ms="5705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertforValideEmail -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:05Z" name="getResult" finished-at="2023-12-19T12:18:05Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAlertforInvalideEmail status=SUCCESS method=LoginTest.verifyAlertforInvalideEmail()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:10Z" name="getResult" finished-at="2023-12-19T12:18:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAlertforValideEmail status=SUCCESS method=LoginTest.verifyAlertforValideEmail()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="clickonBackToLogin()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:10Z" name="clickonBackToLogin" finished-at="2023-12-19T12:18:11Z" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonBackToLogin -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="getResult" finished-at="2023-12-19T12:18:11Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonBackToLogin status=SUCCESS method=LoginTest.clickonBackToLogin()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="visibilityOfLoginContainer1()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="visibilityOfLoginContainer1" finished-at="2023-12-19T12:18:11Z" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfLoginContainer1 -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="getResult" finished-at="2023-12-19T12:18:11Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityOfLoginContainer1 status=SUCCESS method=LoginTest.visibilityOfLoginContainer1()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="verifyValidLogin(java.lang.String, java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="verifyValidLogin" data-provider="ValidAuthentication" finished-at="2023-12-19T12:18:11Z" duration-ms="385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sunil_koli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Automationengineer@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method signature="visibilityMandaraHomePage()[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="visibilityMandaraHomePage" finished-at="2023-12-19T12:18:13Z" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityMandaraHomePage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:11Z" name="getResult" finished-at="2023-12-19T12:18:11Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyValidLogin status=SUCCESS method=LoginTest.verifyValidLogin(java.lang.String, java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:13Z" name="getResult" finished-at="2023-12-19T12:18:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=visibilityMandaraHomePage status=SUCCESS method=LoginTest.visibilityMandaraHomePage()[pri:0, instance:com.Shrava.LoginTest@3a079870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="tearDown(java.lang.String)[pri:0, instance:com.Shrava.LoginTest@3a079870]" started-at="2023-12-19T12:18:39Z" name="tearDown" finished-at="2023-12-19T12:18:40Z" duration-ms="759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shrava]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Shrava.LoginTest -->
+    </test> <!-- Mandara_Test -->
+  </suite> <!-- Shonit -->
+</testng-results>

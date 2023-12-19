@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<testsuite name="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck-20230623130722" tests="8" time="167.674" failures="0" errors="0">
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_A_VerifyAi100ImageLogo" time="4.722"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_B_VerifyInsertSlideButton" time="0.534"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_C_VerifyInsertSlideIcon" time="0.015"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_D_VerifyEditOptionPresence" time="0.011"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_E_VerifyEditslidedetailsFeature" time="52.101"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_F_Navigating_menu_options" time="47.602"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_G_VerifySlideInsertionAndOtherOptionsCheckDuringSlideInsertion" time="30.369"/>
+	<testcase classname="TestCases.ShonitShravaInsertSlideTest.ShonitShravaInsertSlidePageContentCheck" name="test_H_VerifyInsertSlidePopUpClose" time="32.319"/>
+	<system-out><![CDATA[santosh
+Sigtuple@123
+The scan balance is Scan Balance is 983
+ECON CAMERA FIRMWARE
+2.34.131.2422
+PCB Firmware
+default
+Vasuki Linux
+ota-6.3.6-alpha-1
+Vasuki UI
+ota-ui-6.3.4-alpha-5
+shonit
+Shonit-0.5.5
+System Release Version
+System Release Shonit (2.7) PBS-0.5.5
+]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>

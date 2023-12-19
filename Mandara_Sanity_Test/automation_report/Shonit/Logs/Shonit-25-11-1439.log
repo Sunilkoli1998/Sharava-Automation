@@ -1,0 +1,457 @@
+2022-11-25 14:34:32 INFO  ScreenshotListeners:41 - 
+================:  verify Sig Tuple Tittle :====================
+
+2022-11-25 14:34:33 INFO  LoginTest:45 - Sigtuple title is successfully verified
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  verify Mandara App Load :====================
+
+2022-11-25 14:34:33 INFO  Login:47 - mandara app is loaded
+2022-11-25 14:34:33 INFO  LoginTest:54 - Mandara App is loaded successfully in UI
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Sigtuple Logo :====================
+
+2022-11-25 14:34:33 INFO  Login:57 - sigtuple logo is loaded
+2022-11-25 14:34:33 INFO  LoginTest:61 - Sigtuple icon visible
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container :====================
+
+2022-11-25 14:34:33 INFO  Login:67 - login container is loaded
+2022-11-25 14:34:33 INFO  LoginTest:68 - Login container is visible
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  visibility Of User Name Field :====================
+
+2022-11-25 14:34:33 INFO  Login:78 - user name field is displayed
+2022-11-25 14:34:33 INFO  LoginTest:75 - verifyVisibilityOfUserNameField
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Pass Name Field :====================
+
+2022-11-25 14:34:33 INFO  Login:90 - user name field is displayed
+2022-11-25 14:34:33 INFO  LoginTest:82 - verifyVisibilityOfPassNameField
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Button :====================
+
+2022-11-25 14:34:33 INFO  Login:102 - Login buttin is visible
+2022-11-25 14:34:33 INFO  LoginTest:89 - visibilityOfLoginButton
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  enability Of Login Button :====================
+
+2022-11-25 14:34:33 INFO  Login:114 - Login buttin is disabled
+2022-11-25 14:34:33 INFO  LoginTest:96 - enabilityOfLoginButton
+2022-11-25 14:34:33 INFO  ScreenshotListeners:41 - 
+================:  verify User Name Alerttest :====================
+
+2022-11-25 14:34:34 INFO  Login:133 - user name alert Msg :Please enter your user name
+2022-11-25 14:34:34 INFO  LoginTest:103 - Alert message for Username field verified
+2022-11-25 14:34:34 INFO  ScreenshotListeners:41 - 
+================:  verify Password Alerttest :====================
+
+2022-11-25 14:34:35 INFO  Login:148 - password field alert Msg :Please enter your password
+2022-11-25 14:34:35 INFO  LoginTest:110 - Alert message for Password field verified
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Forgot Password Button :====================
+
+2022-11-25 14:34:35 INFO  Login:158 - forgot pass button is displayed
+2022-11-25 14:34:35 INFO  LoginTest:118 - visibilityOfForgotPasswordButton
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  click On Forgot Password Button :====================
+
+2022-11-25 14:34:35 INFO  Login:170 - clicked on forgot pass button
+2022-11-25 14:34:35 INFO  LoginTest:126 - clickOnForgotPasswordButton
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  verify Forgot Password Page Loaded :====================
+
+2022-11-25 14:34:35 INFO  Login:181 - forgot password page loaded
+2022-11-25 14:34:35 INFO  LoginTest:134 - verifyForgotPasswordPageLoaded
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Email I D Field :====================
+
+2022-11-25 14:34:35 INFO  Login:193 - Email field is displayed
+2022-11-25 14:34:35 INFO  LoginTest:141 - visibilityOfForgotPasswordButton
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Back To Login Button :====================
+
+2022-11-25 14:34:35 INFO  Login:204 - back to login button is displayed
+2022-11-25 14:34:35 INFO  LoginTest:148 - visibilityOfBackToLoginButton
+2022-11-25 14:34:35 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Reser Password Button :====================
+
+2022-11-25 14:34:35 INFO  Login:215 - password reset button is displayed and disabled
+2022-11-25 14:34:36 INFO  LoginTest:155 - visibilityOfReserPasswordButton
+2022-11-25 14:34:36 INFO  ScreenshotListeners:41 - 
+================:  enability Of Reser Password Button :====================
+
+2022-11-25 14:34:36 INFO  Login:227 - reset buttin is disabled
+2022-11-25 14:34:36 INFO  LoginTest:162 - enabilityOfReserPasswordButton
+2022-11-25 14:34:36 INFO  ScreenshotListeners:41 - 
+================:  verify Email Field Alert Test :====================
+
+2022-11-25 14:34:36 INFO  Login:246 - Email field alert Msg :Please enter valid email id
+2022-11-25 14:34:36 INFO  LoginTest:169 - Alert message for Email field verified
+2022-11-25 14:34:36 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Not An Emailid :====================
+
+2022-11-25 14:34:36 INFO  Login:265 - entered text is not an email ID
+2022-11-25 14:34:36 INFO  Login:267 - Email field alert Msg :Please enter valid email id
+2022-11-25 14:34:36 INFO  LoginTest:176 - verifyAlertforInvalideEmail
+2022-11-25 14:34:36 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Invalide Email :====================
+
+2022-11-25 14:34:37 INFO  Login:286 - entered text is an email ID
+2022-11-25 14:34:38 INFO  LoginTest:184 - verifyAlertforInvalideEmail
+2022-11-25 14:34:38 INFO  ScreenshotListeners:41 - 
+================:  verify Alertfor Valide Email :====================
+
+2022-11-25 14:34:44 INFO  Login:312 - entered text is an email ID
+2022-11-25 14:34:45 INFO  LoginTest:192 - verifyAlertforValideEmail
+2022-11-25 14:34:45 INFO  ScreenshotListeners:41 - 
+================:  clickon Back To Login :====================
+
+2022-11-25 14:34:45 INFO  Login:331 - back to login button clicked
+2022-11-25 14:34:45 INFO  LoginTest:199 - On clicking 'Back to Login' button, the user navigates to the login form window
+2022-11-25 14:34:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Login Container1 :====================
+
+2022-11-25 14:34:46 INFO  Login:67 - login container is loaded
+2022-11-25 14:34:46 INFO  LoginTest:207 - Login container is visible
+2022-11-25 14:34:46 INFO  ScreenshotListeners:41 - 
+================:  verify Copyright On Login Page :====================
+
+2022-11-25 14:34:46 INFO  Login:348 - copyright text : Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-25 14:34:46 INFO  LoginTest:218 - Copy right info is displayed to users on Login Page Copyright © 2015-2022 SigTuple Technologies Private Limited | All Rights Reserved
+2022-11-25 14:34:46 INFO  ScreenshotListeners:41 - 
+================:  verify Valid Login :====================
+
+2022-11-25 14:34:46 INFO  Login:405 - clicked on login button
+2022-11-25 14:34:46 INFO  LoginTest:267 - login Done successfully
+2022-11-25 14:34:46 INFO  ScreenshotListeners:41 - 
+================:  visibility Mandara Home Page :====================
+
+2022-11-25 14:34:51 INFO  Login:417 - Mandara home page is loaded
+2022-11-25 14:34:51 INFO  LoginTest:279 - Mandara home page is Loaded
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  check Madara Home Page :====================
+
+2022-11-25 14:34:51 INFO  MandaraHomeTest:34 - Mandara Home Page has loaded successfully
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  check Sigtuple Icon :====================
+
+2022-11-25 14:34:51 INFO  MandaraHomeTest:41 - Sigtuple mini icon on static bar is present on top left and is clickable
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  checkusericon :====================
+
+2022-11-25 14:34:51 INFO  MandaraHomeTest:53 - User Icon is present on static bar is present on top right and is clickable
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  number Of Products For User :====================
+
+2022-11-25 14:34:51 INFO  MandaraHomeTest:73 - Number of Products currently accessible to users is 4
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  copyright Test :====================
+
+2022-11-25 14:34:51 INFO  MandaraHomeTest:83 - Copyright info is not identified
+2022-11-25 14:34:51 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test :====================
+
+2022-11-25 14:34:53 INFO  MandaraHomeTest:90 - Terms of Service hyperlink is displayed
+2022-11-25 14:34:53 INFO  MandaraHomeTest:91 - Terms of Service dialog box opened up on clicking on hyperlink
+2022-11-25 14:34:53 INFO  MandaraHomeTest:92 - The header of the dialog box is 'Terms of Service'
+2022-11-25 14:34:53 INFO  MandaraHomeTest:93 - Terms of Service dialog box is closed successfully
+2022-11-25 14:34:53 INFO  ScreenshotListeners:41 - 
+================:  privacy Policy :====================
+
+2022-11-25 14:34:57 INFO  MandaraHomeTest:100 - Privacy policy window opened on the text browser tab
+2022-11-25 14:34:57 INFO  MandaraHomeTest:106 - The Privacy policy document is closed
+2022-11-25 14:34:57 INFO  ScreenshotListeners:41 - 
+================:  availability Of Shonit Card :====================
+
+2022-11-25 14:34:57 INFO  MandaraHomeTest:159 - Shonit product is available for current user
+2022-11-25 14:34:57 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon :====================
+
+2022-11-25 14:35:02 INFO  MandaraHomeTest:65 - All expected option are available after click on user icon
+2022-11-25 14:35:02 INFO  ScreenshotListeners:41 - 
+================:  verify Shonit Carddetails :====================
+
+2022-11-25 14:35:02 INFO  MandaraHome:168 -  all details of this card is verified 
+2022-11-25 14:35:02 INFO  MandaraHomeTest:201 - All details on shonit card is verified 
+2022-11-25 14:35:02 INFO  ScreenshotListeners:41 - 
+================:  clickon List Report Test :====================
+
+2022-11-25 14:35:03 INFO  ListReportTest:47 - Clicked on List Report Successfully to load
+2022-11-25 14:35:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Version Card :====================
+
+2022-11-25 14:35:03 INFO  ListReportTest:56 - about app is opened
+2022-11-25 14:35:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Plateform Version :====================
+
+2022-11-25 14:35:03 INFO  ListReportTest:66 - plateform version is verified
+2022-11-25 14:35:03 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Product Name :====================
+
+2022-11-25 14:35:04 INFO  ListReportTest:91 - product name is verified
+2022-11-25 14:35:04 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Software Version :====================
+
+2022-11-25 14:35:04 INFO  ListReportTest:100 - software version is verified
+2022-11-25 14:35:04 INFO  ScreenshotListeners:41 - 
+================:  closeproduct Version Card :====================
+
+2022-11-25 14:35:04 INFO  ListReportTest:109 - about app is closed
+2022-11-25 14:35:04 INFO  ScreenshotListeners:41 - 
+================:  verify List Reportpage :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:120 - List Report page loaded
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  visibility Of Help Icon :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:74 - help icon is verified
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  Verify Click On Notification Icon :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:82 - Clicked on notification icon Successfully 
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verify Visibilioty O Flag Colour :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:131 -  automatically flag colour is verified
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verify Notpad Icon :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:153 - Notepad Icon is available before 'Analysis Reports' text
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verifymodulname :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:146 - Modul name contains :Shonit
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verifyfilter Icon :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:167 - Filter icon is displayed
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verifyrefreshicon :====================
+
+2022-11-25 14:35:07 INFO  ListReportTest:174 - Refresh icon is displayed
+2022-11-25 14:35:07 INFO  ScreenshotListeners:41 - 
+================:  verify Option From User Icon On Shonit Report Page :====================
+
+2022-11-25 14:35:13 INFO  ListReportTest:187 - All expected option are available after click on user icon
+2022-11-25 14:35:13 INFO  ScreenshotListeners:41 - 
+================:  verifytableheader :====================
+
+2022-11-25 14:35:13 INFO  ListReportTest:208 - Success: validation of list of columns in Shonit list Report ,PRIORITY,FLAG
+  filter_alt,SLIDE ID,DESCRIPTION,INSTALLATION,SUBMITTED BY,SUBMITTED AT,REVIEWER,STATUS,FLAGGED ON
+  filter_alt,
+2022-11-25 14:35:13 INFO  ScreenshotListeners:41 - 
+================:  terms N Cond Test On Shonit Report Page :====================
+
+2022-11-25 14:35:13 INFO  ListReportTest:193 - Terms of Service hyperlink is displayed
+2022-11-25 14:35:13 INFO  ListReportTest:194 - Terms of Service dialog box opened up on clicking on hyperlink
+2022-11-25 14:35:13 INFO  ListReportTest:195 - The header of the dialog box is 'Terms of Service'
+2022-11-25 14:35:13 INFO  ListReportTest:196 - Terms of Service dialog box is closed successfully
+2022-11-25 14:35:13 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationeditbox :====================
+
+2022-11-25 14:35:14 INFO  ListReportTest:215 - edit box is visible to enter page number 
+2022-11-25 14:35:14 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationchevronicons :====================
+
+2022-11-25 14:35:14 INFO  ListReportTest:229 - chevron icons are visible at the bottom of page
+2022-11-25 14:35:14 INFO  ScreenshotListeners:41 - 
+================:  checkpaginationposition :====================
+
+2022-11-25 14:35:14 INFO  ListReportTest:222 - table page numbers are visible
+2022-11-25 14:35:14 INFO  ScreenshotListeners:41 - 
+================:  verify Search Enter Text :====================
+
+2022-11-25 14:35:18 INFO  ListReportTest:295 - Search Text passed successfully
+2022-11-25 14:35:18 INFO  ScreenshotListeners:41 - 
+================:  verify Add Assignee :====================
+
+2022-11-25 14:35:22 INFO  ListReportTest:301 - reviewer is assigned for verify the report
+2022-11-25 14:35:22 INFO  ScreenshotListeners:41 - 
+================:  searchsample I D :====================
+
+2022-11-25 14:35:31 INFO  ReportPageTest:51 - sample is searched for get the reprot for page
+2022-11-25 14:35:31 INFO  ScreenshotListeners:41 - 
+================:  verifysample Detail At Report Page :====================
+
+2022-11-25 14:35:31 INFO  ScreenshotListeners:41 - 
+================:  verify Slide I D :====================
+
+2022-11-25 14:35:33 INFO  ReportPageTest:66 - Slid id is verified successfully Slide ID: STRESS-TEST-25
+2022-11-25 14:35:33 INFO  ScreenshotListeners:41 - 
+================:  verifyslide Detail At Report Page :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:84 - details are verifiedDescription:Submitted By:Scan Mode:Product Version:Submitted At:
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify Header On Report Page :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:99 -  expected header is present on report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify P B S Report Header :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:107 -  expected header is present on report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify All Reports Name :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:115 - expected reports types are present on report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify Ps Impression Header :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:122 -  expected header is present on  psImpression report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify Ps Impressions Name :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:129 -  all  expected names are present on report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verifying Original Report :====================
+
+2022-11-25 14:35:38 INFO  ReportPageTest:136 - original repport is visible on report page
+2022-11-25 14:35:38 INFO  ScreenshotListeners:41 - 
+================:  verify Download Report :====================
+
+2022-11-25 14:35:40 INFO  ReportPageTest:143 -  xls report format is present on downloads at report page 
+2022-11-25 14:35:40 INFO  ScreenshotListeners:41 - 
+================:  verify All Accessibility Button Text :====================
+
+2022-11-25 14:35:43 INFO  ScreenshotListeners:41 - 
+================:  verify Report Page :====================
+
+2022-11-25 14:35:44 INFO  ReportPageTest:180 - Report page is opened successfully 
+2022-11-25 14:35:44 INFO  ScreenshotListeners:41 - 
+================:  switchto R B C Tab :====================
+
+2022-11-25 14:35:51 INFO  ReportPage:608 - clicked on tab
+2022-11-25 14:35:51 INFO  ShonitRBCReportTest:43 - Clicked on RBC Tab of Report page
+2022-11-25 14:35:51 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Tab :====================
+
+2022-11-25 14:35:54 INFO  ShonitRBCReportTest:53 - List of tabels in RBC tab is verified
+2022-11-25 14:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Columns :====================
+
+2022-11-25 14:35:54 INFO  ShonitRBCReportTest:63 - List of columns of RBC Size is verified
+2022-11-25 14:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Rows :====================
+
+2022-11-25 14:35:54 INFO  ShonitRBCReportTest:71 - List of Rows in RBC Size is verified
+2022-11-25 14:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify Significant Text :====================
+
+2022-11-25 14:35:54 INFO  ShonitRBCReportTest:79 - All significant text is verified 
+2022-11-25 14:35:54 INFO  ScreenshotListeners:41 - 
+================:  verify Note Message :====================
+
+2022-11-25 14:35:54 ERROR BrowserSetUp:156 - verifyNoteMessage -> FAILED due to below issues :
+java.lang.AssertionError: expected [Note: RBC count is measured from 6 FOVs] but found [Note: RBC count is measured from 7 FOVs]
+
+2022-11-25 14:35:55 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/verifyNoteMessage.png
+2022-11-25 14:35:55 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Size Grading :====================
+
+2022-11-25 14:35:55 INFO  ShonitRBCReportTest:92 - Grading in RBC size is verified 
+2022-11-25 14:35:55 INFO  ScreenshotListeners:41 - 
+================:  verify Metric N Ame :====================
+
+2022-11-25 14:35:55 INFO  ShonitRBCReportTest:101 - selected cell type  presented on RBC is verified 
+2022-11-25 14:35:55 INFO  ScreenshotListeners:41 - 
+================:  Verify View R B C :====================
+
+2022-11-25 14:35:55 INFO  ShonitRBCReportTest:110 -  all view options are present on RBC 
+2022-11-25 14:35:55 INFO  ScreenshotListeners:41 - 
+================:  verify Enable Or Disable View Setting :====================
+
+2022-11-25 14:35:55 INFO  ShonitRBCReportTest:117 -  view setting is disabled before selection of any cell 
+2022-11-25 14:35:55 INFO  ScreenshotListeners:41 - 
+================:  verify Expand Button On Rbc :====================
+
+2022-11-25 14:36:42 INFO  ShonitRBCReportTest:125 - after click on image  extracted cell text is present
+2022-11-25 14:36:42 INFO  ScreenshotListeners:41 - 
+================:  verify Navigation In Full Patch View :====================
+
+2022-11-25 14:36:42 INFO  ShonitRBCReportTest:131 - Microscopic navigation in full patch view is verified
+2022-11-25 14:36:42 INFO  ScreenshotListeners:41 - 
+================:  navigate To R B C Tab :====================
+
+2022-11-25 14:36:50 INFO  ReportPage:608 - clicked on tab
+2022-11-25 14:36:50 INFO  ShonitRBCReportTest:142 - Clicked on RBC Tab of Report page
+2022-11-25 14:36:50 INFO  ScreenshotListeners:41 - 
+================:  verifycell Name On R Eferences :====================
+
+2022-11-25 14:36:50 INFO  ShonitRBCReportTest:153 - Microcyte is present on references
+2022-11-25 14:36:50 INFO  ScreenshotListeners:41 - 
+================:  verify R B C Poik Grading :====================
+
+2022-11-25 14:36:50 INFO  ShonitRBCReportTest:168 - Grading in RBC Poik is verified 
+2022-11-25 14:36:50 INFO  ScreenshotListeners:41 - 
+================:  click On R B C Re Grading :====================
+
+2022-11-25 14:36:52 INFO  ShonitRBCReportTest:175 - alert message is verified on RBC tab
+2022-11-25 14:36:52 INFO  ScreenshotListeners:41 - 
+================:  switchto R B C Poikilocytes Tab :====================
+
+2022-11-25 14:36:57 INFO  ReportPage:608 - clicked on tab
+2022-11-25 14:36:57 INFO  ShonitRBCReportTest:180 - Clicked on RBC  poikilocytes Tab of Report page
+2022-11-25 14:36:57 INFO  ScreenshotListeners:41 - 
+================:  click On Gradeat R B C Poikilocytes :====================
+
+2022-11-25 14:37:16 ERROR BrowserSetUp:156 - clickOnGradeatRBCPoikilocytes -> FAILED due to below issues :
+java.lang.IllegalArgumentException: bound must be greater than origin
+
+2022-11-25 14:37:17 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/clickOnGradeatRBCPoikilocytes.png
+2022-11-25 14:37:17 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon :====================
+
+2022-11-25 14:37:20 ERROR BrowserSetUp:156 - clickoncommenticon -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <div _ngcontent-c30="" class="comments ng-star-inserted">...</div> is not clickable at point (1346, 697). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:37:5061:dc2c:b5c5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51106}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: dc29d080e7057bab8c4191d8bf7a7f69
+
+2022-11-25 14:37:21 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/clickoncommenticon.png
+2022-11-25 14:37:21 INFO  ScreenshotListeners:41 - 
+================:  loadcommentbox :====================
+
+2022-11-25 14:37:52 ERROR BrowserSetUp:156 - loadcommentbox -> FAILED due to below issues :
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: .comments-box (tried for 30 second(s) with 500 milliseconds interval)
+
+2022-11-25 14:37:53 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/loadcommentbox.png
+2022-11-25 14:37:54 INFO  ScreenshotListeners:41 - 
+================:  validatebox :====================
+
+2022-11-25 14:38:27 ERROR BrowserSetUp:156 - validatebox -> FAILED due to below issues :
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h2[@class='comments-header'] (tried for 30 second(s) with 500 milliseconds interval)
+
+2022-11-25 14:38:28 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/validatebox.png
+2022-11-25 14:38:28 INFO  ScreenshotListeners:41 - 
+================:  closecommentbox :====================
+
+2022-11-25 14:38:59 ERROR BrowserSetUp:156 - closecommentbox -> FAILED due to below issues :
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: .modal-clear (tried for 30 second(s) with 500 milliseconds interval)
+
+2022-11-25 14:39:00 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/closecommentbox.png
+2022-11-25 14:39:00 INFO  ScreenshotListeners:41 - 
+================:  clickoncommenticon1 :====================
+
+2022-11-25 14:39:01 ERROR BrowserSetUp:156 - clickoncommenticon1 -> FAILED due to below issues :
+org.openqa.selenium.WebDriverException: unknown error: Element <i _ngcontent-c30="" class="material-icons circle-icon">...</i> is not clickable at point (1346, 702). Other element would receive the click: <div class="cdk-overlay-backdrop cdk-overlay-transparent-backdrop cdk-overlay-backdrop-showing"></div>
+  (Session info: chrome=107.0.5304.110)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.16.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sigtuples-MacBook-Pro-2.local', ip: 'fe80:0:0:0:37:5061:dc2c:b5c5%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600229 (3fae4d0cda5334..., userDataDir: /var/folders/1k/lnjjm94144x...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51106}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 107.0.5304.110, webStorageEnabled: true}
+Session ID: dc29d080e7057bab8c4191d8bf7a7f69
+
+2022-11-25 14:39:01 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/clickoncommenticon1.png
+2022-11-25 14:39:02 INFO  ScreenshotListeners:41 - 
+================:  checkuser :====================
+
+2022-11-25 14:39:19 ERROR BrowserSetUp:156 - checkuser -> FAILED due to below issues :
+java.lang.AssertionError: expected [true] but found [false]
+
+2022-11-25 14:39:19 INFO  BrowserSetUp:166 - Screenshot for this failed method : Screenshot/checkuser.png

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite1">
+
+
+
+    <!--Below two parameters are used for  launch browser and open the url -->>
+
+    <parameter name="browserType" value="firefox"/>
+    <parameter name="url" value="http://xenon.sigtuple.com/login"/>
+    <listeners>
+        <listener class-name="com.utilities.ScreenshotListeners"/>
+    </listeners>
+
+    <test name="Mandara_Test">
+
+
+
+
+        <classes>
+            <class name="com.shonit.LoginTest"/>
+           <!-- <class name="com.shonit.ShonitListReportTest"/>-->
+
+            <class name="com.shrava.ShravaListReportTest"/>
+            <class name="com.shrava.ShravaReportMetricsTest"/>
+            <class name="com.shrava.ShravaVisualsTest"/>
+            <class name="com.shrava.ShravaImageMicroscopyTest"/>
+
+            <class name="com.shonit.MandaraHomeTest"/>
+            <class name="com.Drishti.DrishtiListReportTest"/>
+            <class name="com.Drishti.ReportTabsTest"/>
+            <class name="com.Drishti.DrishtiCaseLevelSummaryTest"/>
+            <class name="com.Drishti.DrishtiAddBulkTest"/>
+            <class name="com.Drishti.DrishtiSearchTest"/>
+        </classes>
+    </test>
+
+
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<testsuite name="TestCases.ShonitShravaCreateSlidePageTest.CreateSlideInShonit-20230623130722" tests="1" time="20.680" failures="0" errors="0">
+	<testcase classname="TestCases.ShonitShravaCreateSlidePageTest.CreateSlideInShonit" name="test_A_CreateSlideInShonit" time="20.680"/>
+	<system-out><![CDATA[santosh
+Sigtuple@123
+The scan balance is Scan Balance is 983
+ECON CAMERA FIRMWARE
+2.34.131.2422
+PCB Firmware
+default
+Vasuki Linux
+ota-6.3.6-alpha-1
+Vasuki UI
+ota-ui-6.3.4-alpha-5
+shonit
+Shonit-0.5.5
+System Release Version
+System Release Shonit (2.7) PBS-0.5.5
+]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>

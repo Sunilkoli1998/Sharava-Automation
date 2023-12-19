@@ -1,0 +1,369 @@
+<html>
+<head>
+<title>TestNG:  Mandara_Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Mandara_Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>49/1/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Dec 18 16:44:46 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>61 seconds (61344 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyAlertforValideEmail()'><b>verifyAlertforValideEmail</b><br>Test class: com.Shrava.LoginTest</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at com.Shrava.LoginTest.verifyAlertforValideEmail(LoginTest.java:193)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 23 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1324514662", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1324514662'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.Shrava.LoginTest.verifyAlertforValideEmail(LoginTest.java:193)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:696)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:882)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1189)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+</pre></div></td>
+<td>5</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.Shrava.ListReportTest.VerifyClickOnNotificationIcon()'><b>VerifyClickOnNotificationIcon</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.availabilityOfShravaCard()'><b>availabilityOfShravaCard</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.checkMadaraHomePage()'><b>checkMadaraHomePage</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.checkSigtupleIcon()'><b>checkSigtupleIcon</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.checkpaginationchevronicons()'><b>checkpaginationchevronicons</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.checkpaginationeditbox()'><b>checkpaginationeditbox</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.checkpaginationposition()'><b>checkpaginationposition</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.checkusericon()'><b>checkusericon</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.clickOnForgotPasswordButton()'><b>clickOnForgotPasswordButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.clickonBackToLogin()'><b>clickonBackToLogin</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.clickonListReportTest()'><b>clickonListReportTest</b><br>Test class: com.Shrava.ListReportTest<br>Parameters: Shrava</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.closeproductVersionCard()'><b>closeproductVersionCard</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.enabilityOfLoginButton()'><b>enabilityOfLoginButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.enabilityOfReserPasswordButton()'><b>enabilityOfReserPasswordButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.numberOfProductsForUser()'><b>numberOfProductsForUser</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.termsNCondTestOnShonitReportPage()'><b>termsNCondTestOnShonitReportPage</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyAlertforInvalideEmail()'><b>verifyAlertforInvalideEmail</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyForgotPasswordPageLoaded()'><b>verifyForgotPasswordPageLoaded</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifyListReportpage()'><b>verifyListReportpage</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyMandaraAppLoad()'><b>verifyMandaraAppLoad</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifyNotpadIcon()'><b>verifyNotpadIcon</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.verifyOptionFromUserIcon()'><b>verifyOptionFromUserIcon</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>5</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifyOptionFromUserIconOnShonitReportPage()'><b>verifyOptionFromUserIconOnShonitReportPage</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>5</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyPasswordAlerttest()'><b>verifyPasswordAlerttest</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifySearchEnterText()'><b>verifySearchEnterText</b><br>Test class: com.Shrava.ListReportTest<br>Parameters: Shrava</td>
+<td></td>
+<td>4</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.MandaraHomeTest.verifyShonitCarddetails()'><b>verifyShonitCarddetails</b><br>Test class: com.Shrava.MandaraHomeTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.MandaraHomeTest@49c43f4e</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifySigTupleTittle()'><b>verifySigTupleTittle</b><br>Test class: com.Shrava.LoginTest<br>Parameters: https://qa.sigtuple.com/login</td>
+<td></td>
+<td>29</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyUserNameAlerttest()'><b>verifyUserNameAlerttest</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.verifyValidLogin()'><b>verifyValidLogin</b><br>Test class: com.Shrava.LoginTest<br>Parameters: sunil_koli, Automationengineer@123</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifyfilterIcon()'><b>verifyfilterIcon</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifymodulname()'><b>verifymodulname</b><br>Test class: com.Shrava.ListReportTest<br>Parameters: Shrava</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifyrefreshicon()'><b>verifyrefreshicon</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.verifytableheader()'><b>verifytableheader</b><br>Test class: com.Shrava.ListReportTest<br>Parameters: Shrava</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityMandaraHomePage()'><b>visibilityMandaraHomePage</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>1</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfBackToLoginButton()'><b>visibilityOfBackToLoginButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfEmailIDField()'><b>visibilityOfEmailIDField</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfForgotPasswordButton()'><b>visibilityOfForgotPasswordButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.visibilityOfHelpIcon()'><b>visibilityOfHelpIcon</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfLoginButton()'><b>visibilityOfLoginButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfLoginContainer()'><b>visibilityOfLoginContainer</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfLoginContainer1()'><b>visibilityOfLoginContainer1</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfPassNameField()'><b>visibilityOfPassNameField</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.visibilityOfPlateformVersion()'><b>visibilityOfPlateformVersion</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.visibilityOfProductName()'><b>visibilityOfProductName</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>2</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfReserPasswordButton()'><b>visibilityOfReserPasswordButton</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfSigtupleLogo()'><b>visibilityOfSigtupleLogo</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.visibilityOfSoftwareVersion()'><b>visibilityOfSoftwareVersion</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+<tr>
+<td title='com.Shrava.LoginTest.visibilityOfUserNameField()'><b>visibilityOfUserNameField</b><br>Test class: com.Shrava.LoginTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.LoginTest@799d4f69</td></tr>
+<tr>
+<td title='com.Shrava.ListReportTest.visibilityOfVersionCard()'><b>visibilityOfVersionCard</b><br>Test class: com.Shrava.ListReportTest</td>
+<td></td>
+<td>0</td>
+<td>com.Shrava.ListReportTest@130f889</td></tr>
+</table><p>
+</body>
+</html>
